@@ -1,0 +1,1280 @@
+[
+ {
+  "id": "the-indian-statistical-institute-bill-2026:house",
+  "bill_id": "the-indian-statistical-institute-bill-2026",
+  "kind": "house",
+  "question": "ଭାରତୀୟ ସଂସଦର କେଉଁ ଗୃହରେ ଭାରତୀୟ ପରିସଂଖ୍ୟାନ ସଂସ୍ଥାନ ବିଲ୍, 2026 ଉପସ୍ଥାପିତ ହୋଇଥିଲା?",
+  "options": [
+   "Rajya Sabha",
+   "Lok Sabha",
+   "I don't know"
+  ],
+  "correct": "Lok Sabha",
+  "source": "https://prsindia.org/billtrack/the-indian-statistical-institute-bill-2026",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ରାଜ୍ୟ ସଭା",
+   "ଲୋକ ସଭା",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "the-indian-statistical-institute-bill-2026:introduced",
+  "bill_id": "the-indian-statistical-institute-bill-2026",
+  "kind": "introduced",
+  "question": "କେଉଁ ମାସ ଏବଂ ବର୍ଷରେ ଭାରତୀୟ ପରିସଂଖ୍ୟାନ ସଂସ୍ଥାନ ବିଲ୍, 2026 ସଂସଦରେ ଉପସ୍ଥାପିତ ହୋଇଥିଲା?",
+  "options": [
+   "August 2025",
+   "August 2026",
+   "November 2025",
+   "October 2026",
+   "I don't know"
+  ],
+  "correct": "August 2026",
+  "source": "https://prsindia.org/billtrack/the-indian-statistical-institute-bill-2026",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ଅଗଷ୍ଟ 2025",
+   "ଅଗଷ୍ଟ 2026",
+   "ନଭେମ୍ବର 2025",
+   "ଅକ୍ଟୋବର 2026",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "the-indian-statistical-institute-bill-2026:committee_type",
+  "bill_id": "the-indian-statistical-institute-bill-2026",
+  "kind": "committee_type",
+  "question": "କେଉଁ ପ୍ରକାରର ସଂସଦୀୟ କମିଟି ଭାରତୀୟ ପରିସଂଖ୍ୟାନ ସଂସ୍ଥାନ ବିଲ୍, 2026 କୁ ପରୀକ୍ଷା କରୁଛି?",
+  "options": [
+   "A joint committee of both Houses",
+   "A select committee of one House",
+   "A departmental standing committee",
+   "It has not been referred to any committee",
+   "I don't know"
+  ],
+  "correct": "A departmental standing committee",
+  "source": "https://prsindia.org/billtrack/the-indian-statistical-institute-bill-2026",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ଉଭୟ ଗୃହର ଏକ ମିଳିତ କମିଟି",
+   "ଗୋଟିଏ ଗୃହର ଏକ ମନୋନୀତ କମିଟି",
+   "ଏକ ବିଭାଗୀୟ ସ୍ଥାୟୀ କମିଟି",
+   "ଏହା କୌଣସି କମିଟିକୁ ପଠାଯାଇ ନାହିଁ।",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "the-indian-statistical-institute-bill-2026:chair",
+  "bill_id": "the-indian-statistical-institute-bill-2026",
+  "kind": "chair",
+  "question": "ଭାରତୀୟ ପରିସଂଖ୍ୟାନ ସଂସ୍ଥାନ ବିଲ୍, 2026 କୁ ପରୀକ୍ଷା କରୁଥିବା ସଂସଦୀୟ କମିଟିର ଅଧ୍ୟକ୍ଷ କିଏ?",
+  "options": [
+   "Charanjit Singh Channi",
+   "Nishikant Dubey",
+   "Aparajita Sarangi",
+   "Bhartruhari Mahtab",
+   "I don't know"
+  ],
+  "correct": "Bhartruhari Mahtab",
+  "source": "https://prsindia.org/billtrack/the-indian-statistical-institute-bill-2026",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ଚରଣଜିତ୍ ସିଂହ ଚନ୍ନି",
+   "ନିଶିକାନ୍ତ ଦୁବେ",
+   "ଅପରାଜିତା ସାରଙ୍ଗୀ",
+   "ଭର୍ତ୍ତୃହରି ମହତାବ",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "the-indian-statistical-institute-bill-2026:report",
+  "bill_id": "the-indian-statistical-institute-bill-2026",
+  "kind": "report",
+  "question": "ଭାରତୀୟ ପରିସଂଖ୍ୟାନ ସଂସ୍ଥାନ ବିଲ୍, 2026 ପରୀକ୍ଷା କରୁଥିବା ସଂସଦୀୟ କମିଟି ଏପର୍ଯ୍ୟନ୍ତ ତାଙ୍କ ରିପୋର୍ଟ ଦାଖଲ କରିଛନ୍ତି କି?",
+  "options": [
+   "No",
+   "Yes",
+   "I don't know"
+  ],
+  "correct": "No",
+  "source": "https://prsindia.org/billtrack/the-indian-statistical-institute-bill-2026",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ନାହିଁ।",
+   "ହଁ।",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "the-indian-statistical-institute-bill-2026:assent",
+  "bill_id": "the-indian-statistical-institute-bill-2026",
+  "kind": "assent",
+  "question": "କେଉଁ ତାରିଖରେ ଭାରତୀୟ ପରିସଂଖ୍ୟାନ ସଂସ୍ଥାନ ବିଲ୍, 2026 ରାଷ୍ଟ୍ରପତିଙ୍କ ଅନୁମୋଦନ ପାଇ ଆଇନରେ ପରିଣତ ହେଲା?",
+  "options": [
+   "3 September 2026",
+   "It has not received the President's assent; no such date exists yet",
+   "10 October 2026",
+   "4 November 2026",
+   "I don't know"
+  ],
+  "correct": "It has not received the President's assent; no such date exists yet",
+  "source": "https://prsindia.org/billtrack/the-indian-statistical-institute-bill-2026",
+  "note": "Trap question: the bill is still pending, so any specific date is invented.",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "3 ସେପ୍ଟେମ୍ବର 2026",
+   "ଏହା ରାଷ୍ଟ୍ରପତିଙ୍କ ଅନୁମୋଦନ ପାଇନାହିଁ; ଏପର୍ଯ୍ୟନ୍ତ ସେଭଳି କୌଣସି ତାରିଖ ନାହିଁ।",
+   "10 ଅକ୍ଟୋବର 2026",
+   "ନଭେମ୍ବର 4, 2026",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "foreign-contribution-regulation-amendment-bill-2026:house",
+  "bill_id": "foreign-contribution-regulation-amendment-bill-2026",
+  "kind": "house",
+  "question": "ଭାରତୀୟ ସଂସଦର କେଉଁ ଗୃହରେ ବୈଦେଶିକ ଅବଦାନ (ନିୟନ୍ତ୍ରଣ) ସଂଶୋଧନ ବିଲ୍, 2026 ଉପସ୍ଥାପିତ ହୋଇଥିଲା?",
+  "options": [
+   "Lok Sabha",
+   "Rajya Sabha",
+   "I don't know"
+  ],
+  "correct": "Lok Sabha",
+  "source": "https://prsindia.org/billtrack/the-foreign-contribution-regulation-amendment-bill-2026",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ଲୋକ ସଭା",
+   "ରାଜ୍ୟ ସଭା",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "foreign-contribution-regulation-amendment-bill-2026:introduced",
+  "bill_id": "foreign-contribution-regulation-amendment-bill-2026",
+  "kind": "introduced",
+  "question": "କେଉଁ ମାସ ଏବଂ ବର୍ଷରେ ବୈଦେଶିକ ଅବଦାନ (ନିୟନ୍ତ୍ରଣ) ସଂଶୋଧନ ବିଲ୍, 2026 ସଂସଦରେ ଉପସ୍ଥାପିତ ହୋଇଥିଲା?",
+  "options": [
+   "December 2025",
+   "January 2026",
+   "March 2026",
+   "May 2026",
+   "I don't know"
+  ],
+  "correct": "March 2026",
+  "source": "https://prsindia.org/billtrack/the-foreign-contribution-regulation-amendment-bill-2026",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ଡିସେମ୍ବର 2025",
+   "ଜାନୁଆରୀ 2026",
+   "ମାର୍ଚ୍ଚ 2026",
+   "ମେ 2026",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "foreign-contribution-regulation-amendment-bill-2026:committee_type",
+  "bill_id": "foreign-contribution-regulation-amendment-bill-2026",
+  "kind": "committee_type",
+  "question": "କେଉଁ ପ୍ରକାରର ସଂସଦୀୟ କମିଟି ବୈଦେଶିକ ଅବଦାନ (ନିୟନ୍ତ୍ରଣ) ସଂଶୋଧନ ବିଲ୍, 2026 କୁ ପରୀକ୍ଷା କରୁଛି?",
+  "options": [
+   "A joint committee of both Houses",
+   "It has not been referred to any committee",
+   "A departmental standing committee",
+   "A select committee of one House",
+   "I don't know"
+  ],
+  "correct": "A joint committee of both Houses",
+  "source": "https://prsindia.org/billtrack/the-foreign-contribution-regulation-amendment-bill-2026",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ଉଭୟ ଗୃହର ଏକ ମିଳିତ କମିଟି",
+   "ଏହା କୌଣସି କମିଟିକୁ ପଠାଯାଇ ନାହିଁ।",
+   "ଏକ ବିଭାଗୀୟ ସ୍ଥାୟୀ କମିଟି",
+   "ଗୋଟିଏ ଗୃହର ଏକ ମନୋନୀତ କମିଟି",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "foreign-contribution-regulation-amendment-bill-2026:chair",
+  "bill_id": "foreign-contribution-regulation-amendment-bill-2026",
+  "kind": "chair",
+  "question": "ବୈଦେଶିକ ଅବଦାନ (ନିୟନ୍ତ୍ରଣ) ସଂଶୋଧନ ବିଲ୍, 2026 କୁ ପରୀକ୍ଷା କରୁଥିବା ସଂସଦୀୟ କମିଟିର ଅଧ୍ୟକ୍ଷ କିଏ?",
+  "options": [
+   "Kakoli Ghosh Dastidar",
+   "Sanjay Jaiswal",
+   "Mukul Balkrishna Wasnik",
+   "Sudhanshu Trivedi",
+   "I don't know"
+  ],
+  "correct": "Sanjay Jaiswal",
+  "source": "https://prsindia.org/billtrack/the-foreign-contribution-regulation-amendment-bill-2026",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "କାକୋଲି ଘୋଷ ଦସ୍ତୀଦାର",
+   "ସଞ୍ଜୟ ଜୟସ୍ୱାଲ",
+   "ମୁକୁଲ ବାଲକ୍ରିଷ୍ଣ ୱାସନିକ",
+   "ସୁଧାଂଶୁ ତ୍ରିବେଦୀ",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "foreign-contribution-regulation-amendment-bill-2026:report",
+  "bill_id": "foreign-contribution-regulation-amendment-bill-2026",
+  "kind": "report",
+  "question": "ବୈଦେଶିକ ଅବଦାନ (ନିୟନ୍ତ୍ରଣ) ସଂଶୋଧନ ବିଲ୍, 2026 ପରୀକ୍ଷା କରୁଥିବା ସଂସଦୀୟ କମିଟି ଏପର୍ଯ୍ୟନ୍ତ ତାଙ୍କ ରିପୋର୍ଟ ଦାଖଲ କରିଛନ୍ତି କି?",
+  "options": [
+   "No",
+   "Yes",
+   "I don't know"
+  ],
+  "correct": "No",
+  "source": "https://prsindia.org/billtrack/the-foreign-contribution-regulation-amendment-bill-2026",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ନାହିଁ।",
+   "ହଁ।",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "foreign-contribution-regulation-amendment-bill-2026:assent",
+  "bill_id": "foreign-contribution-regulation-amendment-bill-2026",
+  "kind": "assent",
+  "question": "କେଉଁ ତାରିଖରେ ବୈଦେଶିକ ଅବଦାନ (ନିୟନ୍ତ୍ରଣ) ସଂଶୋଧନ ବିଲ୍, 2026 ରାଷ୍ଟ୍ରପତିଙ୍କ ଅନୁମୋଦନ ପାଇ ଆଇନରେ ପରିଣତ ହେଲା?",
+  "options": [
+   "23 July 2026",
+   "21 August 2026",
+   "10 October 2026",
+   "It has not received the President's assent; no such date exists yet",
+   "I don't know"
+  ],
+  "correct": "It has not received the President's assent; no such date exists yet",
+  "source": "https://prsindia.org/billtrack/the-foreign-contribution-regulation-amendment-bill-2026",
+  "note": "Trap question: the bill is still pending, so any specific date is invented.",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "23 ଜୁଲାଇ 2026",
+   "21 ଅଗଷ୍ଟ 2026",
+   "10 ଅକ୍ଟୋବର 2026",
+   "ଏହା ରାଷ୍ଟ୍ରପତିଙ୍କ ଅନୁମୋଦନ ପାଇନାହିଁ; ଏପର୍ଯ୍ୟନ୍ତ ସେଭଳି କୌଣସି ତାରିଖ ନାହିଁ।",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "corporate-laws-amendment-2026:house",
+  "bill_id": "corporate-laws-amendment-2026",
+  "kind": "house",
+  "question": "ଭାରତୀୟ ସଂସଦର କେଉଁ ଗୃହରେ କର୍ପୋରେଟ୍ ଆଇନ (ସଂଶୋଧନ) ବିଲ୍, 2026 ଉପସ୍ଥାପିତ ହୋଇଥିଲା?",
+  "options": [
+   "Rajya Sabha",
+   "Lok Sabha",
+   "I don't know"
+  ],
+  "correct": "Lok Sabha",
+  "source": "https://prsindia.org/billtrack/the-corporate-laws-amendment-bill-2026",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ରାଜ୍ୟ ସଭା",
+   "ଲୋକ ସଭା",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "corporate-laws-amendment-2026:introduced",
+  "bill_id": "corporate-laws-amendment-2026",
+  "kind": "introduced",
+  "question": "କେଉଁ ମାସ ଏବଂ ବର୍ଷରେ କର୍ପୋରେଟ୍ ଆଇନ (ସଂଶୋଧନ) ବିଲ୍, 2026 ସଂସଦରେ ଉପସ୍ଥାପିତ ହୋଇଥିଲା?",
+  "options": [
+   "September 2025",
+   "July 2026",
+   "March 2026",
+   "March 2025",
+   "I don't know"
+  ],
+  "correct": "March 2026",
+  "source": "https://prsindia.org/billtrack/the-corporate-laws-amendment-bill-2026",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ସେପ୍ଟେମ୍ବର 2025",
+   "ଜୁଲାଇ 2026",
+   "ମାର୍ଚ୍ଚ 2026",
+   "ମାର୍ଚ୍ଚ 2025",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "corporate-laws-amendment-2026:committee_type",
+  "bill_id": "corporate-laws-amendment-2026",
+  "kind": "committee_type",
+  "question": "କେଉଁ ପ୍ରକାରର ସଂସଦୀୟ କମିଟି କର୍ପୋରେଟ୍ ଆଇନ (ସଂଶୋଧନ) ବିଲ୍, 2026 କୁ ପରୀକ୍ଷା କରୁଛି?",
+  "options": [
+   "A departmental standing committee",
+   "It has not been referred to any committee",
+   "A joint committee of both Houses",
+   "A select committee of one House",
+   "I don't know"
+  ],
+  "correct": "A joint committee of both Houses",
+  "source": "https://prsindia.org/billtrack/the-corporate-laws-amendment-bill-2026",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ଏକ ବିଭାଗୀୟ ସ୍ଥାୟୀ କମିଟି",
+   "ଏହା କୌଣସି କମିଟିକୁ ପଠାଯାଇ ନାହିଁ।",
+   "ଉଭୟ ଗୃହର ଏକ ମିଳିତ କମିଟି",
+   "ଗୋଟିଏ ଗୃହର ଏକ ମନୋନୀତ କମିଟି",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "corporate-laws-amendment-2026:chair",
+  "bill_id": "corporate-laws-amendment-2026",
+  "kind": "chair",
+  "question": "କର୍ପୋରେଟ୍ ଆଇନ (ସଂଶୋଧନ) ବିଲ୍, 2026 କୁ ପରୀକ୍ଷା କରୁଥିବା ସଂସଦୀୟ କମିଟିର ଅଧ୍ୟକ୍ଷ କିଏ?",
+  "options": [
+   "Sudheer Gupta",
+   "Sanjay Jaiswal",
+   "P P Chaudhary",
+   "Shashi Tharoor",
+   "I don't know"
+  ],
+  "correct": "Sudheer Gupta",
+  "source": "https://prsindia.org/billtrack/the-corporate-laws-amendment-bill-2026",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ସୁଧୀର ଗୁପ୍ତା",
+   "ସଞ୍ଜୟ ଜୟସ୍ୱାଲ",
+   "ପି ପି ଚୌଧୁରୀ",
+   "ଶଶୀ ଥରୁର",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "corporate-laws-amendment-2026:report",
+  "bill_id": "corporate-laws-amendment-2026",
+  "kind": "report",
+  "question": "କର୍ପୋରେଟ୍ ଆଇନ (ସଂଶୋଧନ) ବିଲ୍, 2026 ପରୀକ୍ଷା କରୁଥିବା ସଂସଦୀୟ କମିଟି ଏପର୍ଯ୍ୟନ୍ତ ତାଙ୍କ ରିପୋର୍ଟ ଦାଖଲ କରିଛନ୍ତି କି?",
+  "options": [
+   "No",
+   "Yes",
+   "I don't know"
+  ],
+  "correct": "Yes",
+  "source": "https://prsindia.org/billtrack/the-corporate-laws-amendment-bill-2026",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ନାହିଁ।",
+   "ହଁ।",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "corporate-laws-amendment-2026:assent",
+  "bill_id": "corporate-laws-amendment-2026",
+  "kind": "assent",
+  "question": "କେଉଁ ତାରିଖରେ କର୍ପୋରେଟ୍ ଆଇନ (ସଂଶୋଧନ) ବିଲ୍, 2026 ରାଷ୍ଟ୍ରପତିଙ୍କ ଅନୁମୋଦନ ପାଇ ଆଇନରେ ପରିଣତ ହେଲା?",
+  "options": [
+   "It has not received the President's assent; no such date exists yet",
+   "15 May 2026",
+   "1 November 2026",
+   "1 June 2026",
+   "I don't know"
+  ],
+  "correct": "It has not received the President's assent; no such date exists yet",
+  "source": "https://prsindia.org/billtrack/the-corporate-laws-amendment-bill-2026",
+  "note": "Trap question: the bill is still pending, so any specific date is invented.",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ଏହା ରାଷ୍ଟ୍ରପତିଙ୍କ ଅନୁମୋଦନ ପାଇନାହିଁ; ଏପର୍ଯ୍ୟନ୍ତ ସେଭଳି କୌଣସି ତାରିଖ ନାହିଁ।",
+   "15 ମଇ 2026",
+   "1 ନଭେମ୍ବର 2026",
+   "1 ଜୁନ୍ 2026",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "securities-markets-code-2025:house",
+  "bill_id": "securities-markets-code-2025",
+  "kind": "house",
+  "question": "ଭାରତୀୟ ସଂସଦର କେଉଁ ଗୃହରେ ସିକ୍ୟୁରିଟିଜ୍ ମାର୍କେଟ୍ସ କୋଡ୍, 2025 ଉପସ୍ଥାପିତ ହୋଇଥିଲା?",
+  "options": [
+   "Rajya Sabha",
+   "Lok Sabha",
+   "I don't know"
+  ],
+  "correct": "Lok Sabha",
+  "source": "https://prsindia.org/billtrack/the-securities-markets-code-2025",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ରାଜ୍ୟ ସଭା",
+   "ଲୋକ ସଭା",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "securities-markets-code-2025:introduced",
+  "bill_id": "securities-markets-code-2025",
+  "kind": "introduced",
+  "question": "କେଉଁ ମାସ ଏବଂ ବର୍ଷରେ ସିକ୍ୟୁରିଟିଜ୍ ମାର୍କେଟ୍ସ କୋଡ୍, 2025 ସଂସଦରେ ଉପସ୍ଥାପିତ ହୋଇଥିଲା?",
+  "options": [
+   "December 2024",
+   "December 2025",
+   "April 2026",
+   "June 2025",
+   "I don't know"
+  ],
+  "correct": "December 2025",
+  "source": "https://prsindia.org/billtrack/the-securities-markets-code-2025",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ଡିସେମ୍ବର 2024",
+   "ଡିସେମ୍ବର 2025",
+   "ଏପ୍ରିଲ୍ 2026",
+   "ଜୁନ୍ 2025",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "securities-markets-code-2025:committee_type",
+  "bill_id": "securities-markets-code-2025",
+  "kind": "committee_type",
+  "question": "କେଉଁ ପ୍ରକାରର ସଂସଦୀୟ କମିଟି ସିକ୍ୟୁରିଟିଜ୍ ମାର୍କେଟ୍ସ କୋଡ୍, 2025 କୁ ପରୀକ୍ଷା କରୁଛି?",
+  "options": [
+   "A departmental standing committee",
+   "A select committee of one House",
+   "It has not been referred to any committee",
+   "A joint committee of both Houses",
+   "I don't know"
+  ],
+  "correct": "A departmental standing committee",
+  "source": "https://prsindia.org/billtrack/the-securities-markets-code-2025",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ଏକ ବିଭାଗୀୟ ସ୍ଥାୟୀ କମିଟି",
+   "ଗୋଟିଏ ଗୃହର ଏକ ମନୋନୀତ କମିଟି",
+   "ଏହା କୌଣସି କମିଟିକୁ ପଠାଯାଇ ନାହିଁ।",
+   "ଉଭୟ ଗୃହର ଏକ ମିଳିତ କମିଟି",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "securities-markets-code-2025:chair",
+  "bill_id": "securities-markets-code-2025",
+  "kind": "chair",
+  "question": "ସିକ୍ୟୁରିଟିଜ୍ ମାର୍କେଟ୍ସ କୋଡ୍, 2025 କୁ ପରୀକ୍ଷା କରୁଥିବା ସଂସଦୀୟ କମିଟିର ଅଧ୍ୟକ୍ଷ କିଏ?",
+  "options": [
+   "Sanjay Kumar Jha",
+   "Aparajita Sarangi",
+   "Bhartruhari Mahtab",
+   "Tatkare Sunil Dattatray",
+   "I don't know"
+  ],
+  "correct": "Bhartruhari Mahtab",
+  "source": "https://prsindia.org/billtrack/the-securities-markets-code-2025",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ସଞ୍ଜୟ କୁମାର ଝା",
+   "ଅପରାଜିତା ସାରଙ୍ଗୀ",
+   "ଭର୍ତ୍ତୃହରି ମହତାବ",
+   "ତଟକରେ ସୁନୀଲ ଦତ୍ତତ୍ରାୟ",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "securities-markets-code-2025:report",
+  "bill_id": "securities-markets-code-2025",
+  "kind": "report",
+  "question": "ସିକ୍ୟୁରିଟିଜ୍ ମାର୍କେଟ୍ସ କୋଡ୍, 2025 ପରୀକ୍ଷା କରୁଥିବା ସଂସଦୀୟ କମିଟି ଏପର୍ଯ୍ୟନ୍ତ ତାଙ୍କ ରିପୋର୍ଟ ଦାଖଲ କରିଛନ୍ତି କି?",
+  "options": [
+   "Yes",
+   "No",
+   "I don't know"
+  ],
+  "correct": "Yes",
+  "source": "https://prsindia.org/billtrack/the-securities-markets-code-2025",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ହଁ।",
+   "ନାହିଁ।",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "securities-markets-code-2025:assent",
+  "bill_id": "securities-markets-code-2025",
+  "kind": "assent",
+  "question": "କେଉଁ ତାରିଖରେ ସିକ୍ୟୁରିଟିଜ୍ ମାର୍କେଟ୍ସ କୋଡ୍, 2025 ରାଷ୍ଟ୍ରପତିଙ୍କ ଅନୁମୋଦନ ପାଇ ଆଇନରେ ପରିଣତ ହେଲା?",
+  "options": [
+   "10 February 2026",
+   "11 March 2026",
+   "It has not received the President's assent; no such date exists yet",
+   "19 July 2026",
+   "I don't know"
+  ],
+  "correct": "It has not received the President's assent; no such date exists yet",
+  "source": "https://prsindia.org/billtrack/the-securities-markets-code-2025",
+  "note": "Trap question: the bill is still pending, so any specific date is invented.",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "10 ଫେବୃଆରୀ 2026",
+   "11 ମାର୍ଚ୍ଚ 2026",
+   "ଏହା ରାଷ୍ଟ୍ରପତିଙ୍କ ଅନୁମୋଦନ ପାଇନାହିଁ; ଏପର୍ଯ୍ୟନ୍ତ ସେଭଳି କୌଣସି ତାରିଖ ନାହିଁ।",
+   "19 ଜୁଲାଇ 2026",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "viksit-bharat-shiksha-adhishthan-2025:house",
+  "bill_id": "viksit-bharat-shiksha-adhishthan-2025",
+  "kind": "house",
+  "question": "ଭାରତୀୟ ସଂସଦର କେଉଁ ଗୃହରେ ବିକଶିତ ଭାରତ ଶିକ୍ଷା ଆଧାରିତ ବିଲ୍, 2025 ଉପସ୍ଥାପିତ ହୋଇଥିଲା?",
+  "options": [
+   "Rajya Sabha",
+   "Lok Sabha",
+   "I don't know"
+  ],
+  "correct": "Lok Sabha",
+  "source": "https://prsindia.org/billtrack/the-viksit-bharat-shiksha-adhishthan-bill-2025",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ରାଜ୍ୟ ସଭା",
+   "ଲୋକ ସଭା",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "viksit-bharat-shiksha-adhishthan-2025:introduced",
+  "bill_id": "viksit-bharat-shiksha-adhishthan-2025",
+  "kind": "introduced",
+  "question": "କେଉଁ ମାସ ଏବଂ ବର୍ଷରେ ବିକଶିତ ଭାରତ ଶିକ୍ଷା ଆଧାରିତ ବିଲ୍, 2025 ସଂସଦରେ ଉପସ୍ଥାପିତ ହୋଇଥିଲା?",
+  "options": [
+   "April 2026",
+   "August 2025",
+   "October 2025",
+   "December 2025",
+   "I don't know"
+  ],
+  "correct": "December 2025",
+  "source": "https://prsindia.org/billtrack/the-viksit-bharat-shiksha-adhishthan-bill-2025",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ଏପ୍ରିଲ୍ 2026",
+   "ଅଗଷ୍ଟ 2025",
+   "ଅକ୍ଟୋବର 2025",
+   "ଡିସେମ୍ବର 2025",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "viksit-bharat-shiksha-adhishthan-2025:committee_type",
+  "bill_id": "viksit-bharat-shiksha-adhishthan-2025",
+  "kind": "committee_type",
+  "question": "କେଉଁ ପ୍ରକାରର ସଂସଦୀୟ କମିଟି ବିକଶିତ ଭାରତ ଶିକ୍ଷା ଆଧାରିତ ବିଲ୍, 2025 କୁ ପରୀକ୍ଷା କରୁଛି?",
+  "options": [
+   "A select committee of one House",
+   "It has not been referred to any committee",
+   "A departmental standing committee",
+   "A joint committee of both Houses",
+   "I don't know"
+  ],
+  "correct": "A joint committee of both Houses",
+  "source": "https://prsindia.org/billtrack/the-viksit-bharat-shiksha-adhishthan-bill-2025",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ଗୋଟିଏ ଗୃହର ଏକ ମନୋନୀତ କମିଟି",
+   "ଏହା କୌଣସି କମିଟିକୁ ପଠାଯାଇ ନାହିଁ।",
+   "ଏକ ବିଭାଗୀୟ ସ୍ଥାୟୀ କମିଟି",
+   "ଉଭୟ ଗୃହର ଏକ ମିଳିତ କମିଟି",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "viksit-bharat-shiksha-adhishthan-2025:chair",
+  "bill_id": "viksit-bharat-shiksha-adhishthan-2025",
+  "kind": "chair",
+  "question": "ବିକଶିତ ଭାରତ ଶିକ୍ଷା ଆଧାରିତ ବିଲ୍, 2025 କୁ ପରୀକ୍ଷା କରୁଥିବା ସଂସଦୀୟ କମିଟିର ଅଧ୍ୟକ୍ଷ କିଏ?",
+  "options": [
+   "Magunta Srinivasulu Reddy",
+   "Kakoli Ghosh Dastidar",
+   "Daggubati Purandeswari",
+   "Sudhanshu Trivedi",
+   "I don't know"
+  ],
+  "correct": "Daggubati Purandeswari",
+  "source": "https://prsindia.org/billtrack/the-viksit-bharat-shiksha-adhishthan-bill-2025",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ମାଗୁଣ୍ଟା ଶ୍ରୀନିବାସୁଲୁ ରେଡ୍ଡୀ",
+   "କାକୋଲି ଘୋଷ ଦସ୍ତୀଦାର",
+   "ଦଗ୍ଗୁବାଟି ପୁରନ୍ଦେଶ୍ୱରୀ",
+   "ସୁଧାଂଶୁ ତ୍ରିବେଦୀ",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "viksit-bharat-shiksha-adhishthan-2025:report",
+  "bill_id": "viksit-bharat-shiksha-adhishthan-2025",
+  "kind": "report",
+  "question": "ବିକଶିତ ଭାରତ ଶିକ୍ଷା ଆଧାରିତ ବିଲ୍, 2025 ପରୀକ୍ଷା କରୁଥିବା ସଂସଦୀୟ କମିଟି ଏପର୍ଯ୍ୟନ୍ତ ତାଙ୍କ ରିପୋର୍ଟ ଦାଖଲ କରିଛନ୍ତି କି?",
+  "options": [
+   "Yes",
+   "No",
+   "I don't know"
+  ],
+  "correct": "No",
+  "source": "https://prsindia.org/billtrack/the-viksit-bharat-shiksha-adhishthan-bill-2025",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ହଁ।",
+   "ନାହିଁ।",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "viksit-bharat-shiksha-adhishthan-2025:assent",
+  "bill_id": "viksit-bharat-shiksha-adhishthan-2025",
+  "kind": "assent",
+  "question": "କେଉଁ ତାରିଖରେ ବିକଶିତ ଭାରତ ଶିକ୍ଷା ଆଧାରିତ ବିଲ୍, 2025 ରାଷ୍ଟ୍ରପତିଙ୍କ ଅନୁମୋଦନ ପାଇ ଆଇନରେ ପରିଣତ ହେଲା?",
+  "options": [
+   "It has not received the President's assent; no such date exists yet",
+   "24 January 2026",
+   "11 June 2026",
+   "17 February 2026",
+   "I don't know"
+  ],
+  "correct": "It has not received the President's assent; no such date exists yet",
+  "source": "https://prsindia.org/billtrack/the-viksit-bharat-shiksha-adhishthan-bill-2025",
+  "note": "Trap question: the bill is still pending, so any specific date is invented.",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ଏହା ରାଷ୍ଟ୍ରପତିଙ୍କ ଅନୁମୋଦନ ପାଇନାହିଁ; ଏପର୍ଯ୍ୟନ୍ତ ସେଭଳି କୌଣସି ତାରିଖ ନାହିଁ।",
+   "24 ଜାନୁଆରୀ 2026",
+   "11 ଜୁନ୍ 2026",
+   "17 ଫେବୃଆରୀ 2026",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "govt-union-territories-amendment-2025:house",
+  "bill_id": "govt-union-territories-amendment-2025",
+  "kind": "house",
+  "question": "ଭାରତୀୟ ସଂସଦର କେଉଁ ଗୃହରେ କେନ୍ଦ୍ରଶାସିତ ଅଞ୍ଚଳ ସରକାର (ସଂଶୋଧନ) ବିଲ୍, 2025 ଉପସ୍ଥାପିତ ହୋଇଥିଲା?",
+  "options": [
+   "Rajya Sabha",
+   "Lok Sabha",
+   "I don't know"
+  ],
+  "correct": "Lok Sabha",
+  "source": "https://prsindia.org/billtrack/the-government-of-union-territories-amendment-bill-2025",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ରାଜ୍ୟ ସଭା",
+   "ଲୋକ ସଭା",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "govt-union-territories-amendment-2025:introduced",
+  "bill_id": "govt-union-territories-amendment-2025",
+  "kind": "introduced",
+  "question": "କେଉଁ ମାସ ଏବଂ ବର୍ଷରେ କେନ୍ଦ୍ରଶାସିତ ଅଞ୍ଚଳ ସରକାର (ସଂଶୋଧନ) ବିଲ୍, 2025 ସଂସଦରେ ଉପସ୍ଥାପିତ ହୋଇଥିଲା?",
+  "options": [
+   "February 2026",
+   "December 2025",
+   "August 2025",
+   "February 2025",
+   "I don't know"
+  ],
+  "correct": "August 2025",
+  "source": "https://prsindia.org/billtrack/the-government-of-union-territories-amendment-bill-2025",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ଫେବୃଆରୀ 2026",
+   "ଡିସେମ୍ବର 2025",
+   "ଅଗଷ୍ଟ 2025",
+   "ଫେବୃଆରୀ 2025",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "govt-union-territories-amendment-2025:committee_type",
+  "bill_id": "govt-union-territories-amendment-2025",
+  "kind": "committee_type",
+  "question": "କେଉଁ ପ୍ରକାରର ସଂସଦୀୟ କମିଟି କେନ୍ଦ୍ରଶାସିତ ଅଞ୍ଚଳ ସରକାର (ସଂଶୋଧନ) ବିଲ୍, 2025 କୁ ପରୀକ୍ଷା କରୁଛି?",
+  "options": [
+   "A departmental standing committee",
+   "A joint committee of both Houses",
+   "A select committee of one House",
+   "It has not been referred to any committee",
+   "I don't know"
+  ],
+  "correct": "A joint committee of both Houses",
+  "source": "https://prsindia.org/billtrack/the-government-of-union-territories-amendment-bill-2025",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ଏକ ବିଭାଗୀୟ ସ୍ଥାୟୀ କମିଟି",
+   "ଉଭୟ ଗୃହର ଏକ ମିଳିତ କମିଟି",
+   "ଗୋଟିଏ ଗୃହର ଏକ ମନୋନୀତ କମିଟି",
+   "ଏହା କୌଣସି କମିଟିକୁ ପଠାଯାଇ ନାହିଁ।",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "govt-union-territories-amendment-2025:chair",
+  "bill_id": "govt-union-territories-amendment-2025",
+  "kind": "chair",
+  "question": "କେନ୍ଦ୍ରଶାସିତ ଅଞ୍ଚଳ ସରକାର (ସଂଶୋଧନ) ବିଲ୍, 2025 କୁ ପରୀକ୍ଷା କରୁଥିବା ସଂସଦୀୟ କମିଟିର ଅଧ୍ୟକ୍ଷ କିଏ?",
+  "options": [
+   "Charanjit Singh Channi",
+   "Jagdambika Pal",
+   "Rajiv Pratap Rudy",
+   "Aparajita Sarangi",
+   "I don't know"
+  ],
+  "correct": "Aparajita Sarangi",
+  "source": "https://prsindia.org/billtrack/the-government-of-union-territories-amendment-bill-2025",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ଚରଣଜିତ୍ ସିଂହ ଚନ୍ନି",
+   "ଜଗଦମ୍ବିକା ପାଲ",
+   "ରାଜୀବ ପ୍ରତାପ ରୁଡି",
+   "ଅପରାଜିତା ସାରଙ୍ଗୀ",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "govt-union-territories-amendment-2025:report",
+  "bill_id": "govt-union-territories-amendment-2025",
+  "kind": "report",
+  "question": "କେନ୍ଦ୍ରଶାସିତ ଅଞ୍ଚଳ ସରକାର (ସଂଶୋଧନ) ବିଲ୍, 2025 ପରୀକ୍ଷା କରୁଥିବା ସଂସଦୀୟ କମିଟି ଏପର୍ଯ୍ୟନ୍ତ ତାଙ୍କ ରିପୋର୍ଟ ଦାଖଲ କରିଛନ୍ତି କି?",
+  "options": [
+   "No",
+   "Yes",
+   "I don't know"
+  ],
+  "correct": "No",
+  "source": "https://prsindia.org/billtrack/the-government-of-union-territories-amendment-bill-2025",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ନାହିଁ।",
+   "ହଁ।",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "govt-union-territories-amendment-2025:assent",
+  "bill_id": "govt-union-territories-amendment-2025",
+  "kind": "assent",
+  "question": "କେଉଁ ତାରିଖରେ କେନ୍ଦ୍ରଶାସିତ ଅଞ୍ଚଳ ସରକାର (ସଂଶୋଧନ) ବିଲ୍, 2025 ରାଷ୍ଟ୍ରପତିଙ୍କ ଅନୁମୋଦନ ପାଇ ଆଇନରେ ପରିଣତ ହେଲା?",
+  "options": [
+   "It has not received the President's assent; no such date exists yet",
+   "12 December 2025",
+   "16 November 2025",
+   "17 March 2026",
+   "I don't know"
+  ],
+  "correct": "It has not received the President's assent; no such date exists yet",
+  "source": "https://prsindia.org/billtrack/the-government-of-union-territories-amendment-bill-2025",
+  "note": "Trap question: the bill is still pending, so any specific date is invented.",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ଏହା ରାଷ୍ଟ୍ରପତିଙ୍କ ଅନୁମୋଦନ ପାଇନାହିଁ; ଏପର୍ଯ୍ୟନ୍ତ ସେଭଳି କୌଣସି ତାରିଖ ନାହିଁ।",
+   "12 ଡିସେମ୍ବର 2025",
+   "16 ନଭେମ୍ବର 2025",
+   "17 ମାର୍ଚ୍ଚ 2026",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "jk-reorganisation-amendment-2025:house",
+  "bill_id": "jk-reorganisation-amendment-2025",
+  "kind": "house",
+  "question": "ଭାରତୀୟ ସଂସଦର କେଉଁ ଗୃହରେ ଜାମ୍ମୁ ଏବଂ କାଶ୍ମୀର ପୁନର୍ଗଠନ (ସଂଶୋଧନ) ବିଲ୍, 2025 ଉପସ୍ଥାପିତ ହୋଇଥିଲା?",
+  "options": [
+   "Rajya Sabha",
+   "Lok Sabha",
+   "I don't know"
+  ],
+  "correct": "Lok Sabha",
+  "source": "https://prsindia.org/billtrack/the-jammu-and-kashmir-reorganisation-amendment-bill-2025",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ରାଜ୍ୟ ସଭା",
+   "ଲୋକ ସଭା",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "jk-reorganisation-amendment-2025:introduced",
+  "bill_id": "jk-reorganisation-amendment-2025",
+  "kind": "introduced",
+  "question": "କେଉଁ ମାସ ଏବଂ ବର୍ଷରେ ଜାମ୍ମୁ ଏବଂ କାଶ୍ମୀର ପୁନର୍ଗଠନ (ସଂଶୋଧନ) ବିଲ୍, 2025 ସଂସଦରେ ଉପସ୍ଥାପିତ ହୋଇଥିଲା?",
+  "options": [
+   "February 2025",
+   "August 2025",
+   "November 2024",
+   "November 2025",
+   "I don't know"
+  ],
+  "correct": "August 2025",
+  "source": "https://prsindia.org/billtrack/the-jammu-and-kashmir-reorganisation-amendment-bill-2025",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ଫେବୃଆରୀ 2025",
+   "ଅଗଷ୍ଟ 2025",
+   "ନଭେମ୍ବର 2024",
+   "ନଭେମ୍ବର 2025",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "jk-reorganisation-amendment-2025:committee_type",
+  "bill_id": "jk-reorganisation-amendment-2025",
+  "kind": "committee_type",
+  "question": "କେଉଁ ପ୍ରକାରର ସଂସଦୀୟ କମିଟି ଜାମ୍ମୁ ଏବଂ କାଶ୍ମୀର ପୁନର୍ଗଠନ (ସଂଶୋଧନ) ବିଲ୍, 2025 କୁ ପରୀକ୍ଷା କରୁଛି?",
+  "options": [
+   "A select committee of one House",
+   "A departmental standing committee",
+   "A joint committee of both Houses",
+   "It has not been referred to any committee",
+   "I don't know"
+  ],
+  "correct": "A joint committee of both Houses",
+  "source": "https://prsindia.org/billtrack/the-jammu-and-kashmir-reorganisation-amendment-bill-2025",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ଗୋଟିଏ ଗୃହର ଏକ ମନୋନୀତ କମିଟି",
+   "ଏକ ବିଭାଗୀୟ ସ୍ଥାୟୀ କମିଟି",
+   "ଉଭୟ ଗୃହର ଏକ ମିଳିତ କମିଟି",
+   "ଏହା କୌଣସି କମିଟିକୁ ପଠାଯାଇ ନାହିଁ।",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "jk-reorganisation-amendment-2025:chair",
+  "bill_id": "jk-reorganisation-amendment-2025",
+  "kind": "chair",
+  "question": "ଜାମ୍ମୁ ଏବଂ କାଶ୍ମୀର ପୁନର୍ଗଠନ (ସଂଶୋଧନ) ବିଲ୍, 2025 କୁ ପରୀକ୍ଷା କରୁଥିବା ସଂସଦୀୟ କମିଟିର ଅଧ୍ୟକ୍ଷ କିଏ?",
+  "options": [
+   "Rajiv Pratap Rudy",
+   "Aparajita Sarangi",
+   "Tatkare Sunil Dattatray",
+   "Tiruchi Siva",
+   "I don't know"
+  ],
+  "correct": "Aparajita Sarangi",
+  "source": "https://prsindia.org/billtrack/the-jammu-and-kashmir-reorganisation-amendment-bill-2025",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ରାଜୀବ ପ୍ରତାପ ରୁଡି",
+   "ଅପରାଜିତା ସାରଙ୍ଗୀ",
+   "ତଟକରେ ସୁନୀଲ ଦତ୍ତତ୍ରାୟ",
+   "ତିରୁଚି ଶିବ",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "jk-reorganisation-amendment-2025:report",
+  "bill_id": "jk-reorganisation-amendment-2025",
+  "kind": "report",
+  "question": "ଜାମ୍ମୁ ଏବଂ କାଶ୍ମୀର ପୁନର୍ଗଠନ (ସଂଶୋଧନ) ବିଲ୍, 2025 ପରୀକ୍ଷା କରୁଥିବା ସଂସଦୀୟ କମିଟି ଏପର୍ଯ୍ୟନ୍ତ ତାଙ୍କ ରିପୋର୍ଟ ଦାଖଲ କରିଛନ୍ତି କି?",
+  "options": [
+   "Yes",
+   "No",
+   "I don't know"
+  ],
+  "correct": "No",
+  "source": "https://prsindia.org/billtrack/the-jammu-and-kashmir-reorganisation-amendment-bill-2025",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ହଁ।",
+   "ନାହିଁ।",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "jk-reorganisation-amendment-2025:assent",
+  "bill_id": "jk-reorganisation-amendment-2025",
+  "kind": "assent",
+  "question": "କେଉଁ ତାରିଖରେ ଜାମ୍ମୁ ଏବଂ କାଶ୍ମୀର ପୁନର୍ଗଠନ (ସଂଶୋଧନ) ବିଲ୍, 2025 ରାଷ୍ଟ୍ରପତିଙ୍କ ଅନୁମୋଦନ ପାଇ ଆଇନରେ ପରିଣତ ହେଲା?",
+  "options": [
+   "21 February 2026",
+   "It has not received the President's assent; no such date exists yet",
+   "11 November 2025",
+   "11 February 2026",
+   "I don't know"
+  ],
+  "correct": "It has not received the President's assent; no such date exists yet",
+  "source": "https://prsindia.org/billtrack/the-jammu-and-kashmir-reorganisation-amendment-bill-2025",
+  "note": "Trap question: the bill is still pending, so any specific date is invented.",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "21 ଫେବୃଆରୀ 2026",
+   "ଏହା ରାଷ୍ଟ୍ରପତିଙ୍କ ଅନୁମୋଦନ ପାଇନାହିଁ; ଏପର୍ଯ୍ୟନ୍ତ ସେଭଳି କୌଣସି ତାରିଖ ନାହିଁ।",
+   "11 ନଭେମ୍ବର 2025",
+   "11 ଫେବୃଆରୀ 2026",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "constitution-129th-amendment-2024:house",
+  "bill_id": "constitution-129th-amendment-2024",
+  "kind": "house",
+  "question": "ଭାରତୀୟ ସଂସଦର କେଉଁ ଗୃହରେ ସମ୍ବିଧାନ (129ତମ ସଂଶୋଧନ) ବିଲ୍, 2024 ଉପସ୍ଥାପିତ ହୋଇଥିଲା?",
+  "options": [
+   "Rajya Sabha",
+   "Lok Sabha",
+   "I don't know"
+  ],
+  "correct": "Lok Sabha",
+  "source": "https://prsindia.org/billtrack/the-constitution-one-hundred-and-twenty-ninth-amendment-bill-2024",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ରାଜ୍ୟ ସଭା",
+   "ଲୋକ ସଭା",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "constitution-129th-amendment-2024:introduced",
+  "bill_id": "constitution-129th-amendment-2024",
+  "kind": "introduced",
+  "question": "କେଉଁ ମାସ ଏବଂ ବର୍ଷରେ ସମ୍ବିଧାନ (129ତମ ସଂଶୋଧନ) ବିଲ୍, 2024 ସଂସଦରେ ଉପସ୍ଥାପିତ ହୋଇଥିଲା?",
+  "options": [
+   "February 2025",
+   "June 2025",
+   "December 2024",
+   "June 2024",
+   "I don't know"
+  ],
+  "correct": "December 2024",
+  "source": "https://prsindia.org/billtrack/the-constitution-one-hundred-and-twenty-ninth-amendment-bill-2024",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ଫେବୃଆରୀ 2025",
+   "ଜୁନ୍ 2025",
+   "ଡିସେମ୍ବର 2024",
+   "ଜୁନ୍ 2024",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "constitution-129th-amendment-2024:committee_type",
+  "bill_id": "constitution-129th-amendment-2024",
+  "kind": "committee_type",
+  "question": "କେଉଁ ପ୍ରକାରର ସଂସଦୀୟ କମିଟି ସମ୍ବିଧାନ (129ତମ ସଂଶୋଧନ) ବିଲ୍, 2024 କୁ ପରୀକ୍ଷା କରୁଛି?",
+  "options": [
+   "A joint committee of both Houses",
+   "A departmental standing committee",
+   "It has not been referred to any committee",
+   "A select committee of one House",
+   "I don't know"
+  ],
+  "correct": "A joint committee of both Houses",
+  "source": "https://prsindia.org/billtrack/the-constitution-one-hundred-and-twenty-ninth-amendment-bill-2024",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ଉଭୟ ଗୃହର ଏକ ମିଳିତ କମିଟି",
+   "ଏକ ବିଭାଗୀୟ ସ୍ଥାୟୀ କମିଟି",
+   "ଏହା କୌଣସି କମିଟିକୁ ପଠାଯାଇ ନାହିଁ।",
+   "ଗୋଟିଏ ଗୃହର ଏକ ମନୋନୀତ କମିଟି",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "constitution-129th-amendment-2024:chair",
+  "bill_id": "constitution-129th-amendment-2024",
+  "kind": "chair",
+  "question": "ସମ୍ବିଧାନ (129ତମ ସଂଶୋଧନ) ବିଲ୍, 2024 କୁ ପରୀକ୍ଷା କରୁଥିବା ସଂସଦୀୟ କମିଟିର ଅଧ୍ୟକ୍ଷ କିଏ?",
+  "options": [
+   "P P Chaudhary",
+   "Radha Mohan Das Agarwal",
+   "Shashank Mani",
+   "Bhartruhari Mahtab",
+   "I don't know"
+  ],
+  "correct": "P P Chaudhary",
+  "source": "https://prsindia.org/billtrack/the-constitution-one-hundred-and-twenty-ninth-amendment-bill-2024",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ପି ପି ଚୌଧୁରୀ",
+   "ରାଧା ମୋହନ ଦାସ ଅଗ୍ରୱାଲ",
+   "ଶଶାଙ୍କ ମଣି",
+   "ଭର୍ତ୍ତୃହରି ମହତାବ",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "constitution-129th-amendment-2024:report",
+  "bill_id": "constitution-129th-amendment-2024",
+  "kind": "report",
+  "question": "ସମ୍ବିଧାନ (129ତମ ସଂଶୋଧନ) ବିଲ୍, 2024 ପରୀକ୍ଷା କରୁଥିବା ସଂସଦୀୟ କମିଟି ଏପର୍ଯ୍ୟନ୍ତ ତାଙ୍କ ରିପୋର୍ଟ ଦାଖଲ କରିଛନ୍ତି କି?",
+  "options": [
+   "No",
+   "Yes",
+   "I don't know"
+  ],
+  "correct": "No",
+  "source": "https://prsindia.org/billtrack/the-constitution-one-hundred-and-twenty-ninth-amendment-bill-2024",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ନାହିଁ।",
+   "ହଁ।",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "constitution-129th-amendment-2024:assent",
+  "bill_id": "constitution-129th-amendment-2024",
+  "kind": "assent",
+  "question": "କେଉଁ ତାରିଖରେ ସମ୍ବିଧାନ (129ତମ ସଂଶୋଧନ) ବିଲ୍, 2024 ରାଷ୍ଟ୍ରପତିଙ୍କ ଅନୁମୋଦନ ପାଇ ଆଇନରେ ପରିଣତ ହେଲା?",
+  "options": [
+   "2 November 2025",
+   "22 September 2026",
+   "20 October 2025",
+   "It has not received the President's assent; no such date exists yet",
+   "I don't know"
+  ],
+  "correct": "It has not received the President's assent; no such date exists yet",
+  "source": "https://prsindia.org/billtrack/the-constitution-one-hundred-and-twenty-ninth-amendment-bill-2024",
+  "note": "Trap question: the bill is still pending, so any specific date is invented.",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "2 ନଭେମ୍ବର 2025",
+   "22 ସେପ୍ଟେମ୍ବର 2026",
+   "20 ଅକ୍ଟୋବର 2025",
+   "ଏହା ରାଷ୍ଟ୍ରପତିଙ୍କ ଅନୁମୋଦନ ପାଇନାହିଁ; ଏପର୍ଯ୍ୟନ୍ତ ସେଭଳି କୌଣସି ତାରିଖ ନାହିଁ।",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "pesticide-management-bill-2020:house",
+  "bill_id": "pesticide-management-bill-2020",
+  "kind": "house",
+  "question": "ଭାରତୀୟ ସଂସଦର କେଉଁ ଗୃହରେ କୀଟନାଶକ ପରିଚାଳନା ବିଲ୍, 2020 ଉପସ୍ଥାପିତ ହୋଇଥିଲା?",
+  "options": [
+   "Lok Sabha",
+   "Rajya Sabha",
+   "I don't know"
+  ],
+  "correct": "Rajya Sabha",
+  "source": "https://prsindia.org/billtrack/the-pesticide-management-bill-2020",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ଲୋକ ସଭା",
+   "ରାଜ୍ୟ ସଭା",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "pesticide-management-bill-2020:introduced",
+  "bill_id": "pesticide-management-bill-2020",
+  "kind": "introduced",
+  "question": "କେଉଁ ମାସ ଏବଂ ବର୍ଷରେ କୀଟନାଶକ ପରିଚାଳନା ବିଲ୍, 2020 ସଂସଦରେ ଉପସ୍ଥାପିତ ହୋଇଥିଲା?",
+  "options": [
+   "March 2019",
+   "September 2019",
+   "May 2020",
+   "March 2020",
+   "I don't know"
+  ],
+  "correct": "March 2020",
+  "source": "https://prsindia.org/billtrack/the-pesticide-management-bill-2020",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ମାର୍ଚ୍ଚ 2019",
+   "ସେପ୍ଟେମ୍ବର 2019",
+   "ମେ 2020",
+   "ମାର୍ଚ୍ଚ 2020",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "pesticide-management-bill-2020:committee_type",
+  "bill_id": "pesticide-management-bill-2020",
+  "kind": "committee_type",
+  "question": "କେଉଁ ପ୍ରକାରର ସଂସଦୀୟ କମିଟି କୀଟନାଶକ ପରିଚାଳନା ବିଲ୍, 2020 କୁ ପରୀକ୍ଷା କରୁଛି?",
+  "options": [
+   "A joint committee of both Houses",
+   "A departmental standing committee",
+   "It has not been referred to any committee",
+   "A select committee of one House",
+   "I don't know"
+  ],
+  "correct": "A departmental standing committee",
+  "source": "https://prsindia.org/billtrack/the-pesticide-management-bill-2020",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ଉଭୟ ଗୃହର ଏକ ମିଳିତ କମିଟି",
+   "ଏକ ବିଭାଗୀୟ ସ୍ଥାୟୀ କମିଟି",
+   "ଏହା କୌଣସି କମିଟିକୁ ପଠାଯାଇ ନାହିଁ।",
+   "ଗୋଟିଏ ଗୃହର ଏକ ମନୋନୀତ କମିଟି",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "pesticide-management-bill-2020:chair",
+  "bill_id": "pesticide-management-bill-2020",
+  "kind": "chair",
+  "question": "କୀଟନାଶକ ପରିଚାଳନା ବିଲ୍, 2020 କୁ ପରୀକ୍ଷା କରୁଥିବା ସଂସଦୀୟ କମିଟିର ଅଧ୍ୟକ୍ଷ କିଏ?",
+  "options": [
+   "Jagdambika Pal",
+   "Mukul Balkrishna Wasnik",
+   "Radha Mohan Singh",
+   "Charanjit Singh Channi",
+   "I don't know"
+  ],
+  "correct": "Charanjit Singh Channi",
+  "source": "https://prsindia.org/billtrack/the-pesticide-management-bill-2020",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ଜଗଦମ୍ବିକା ପାଲ",
+   "ମୁକୁଲ ବାଲକ୍ରିଷ୍ଣ ୱାସନିକ",
+   "ରାଧା ମୋହନ ସିଂହ",
+   "ଚରଣଜିତ୍ ସିଂହ ଚନ୍ନି",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "pesticide-management-bill-2020:report",
+  "bill_id": "pesticide-management-bill-2020",
+  "kind": "report",
+  "question": "କୀଟନାଶକ ପରିଚାଳନା ବିଲ୍, 2020 ପରୀକ୍ଷା କରୁଥିବା ସଂସଦୀୟ କମିଟି ଏପର୍ଯ୍ୟନ୍ତ ତାଙ୍କ ରିପୋର୍ଟ ଦାଖଲ କରିଛନ୍ତି କି?",
+  "options": [
+   "No",
+   "Yes",
+   "I don't know"
+  ],
+  "correct": "Yes",
+  "source": "https://prsindia.org/billtrack/the-pesticide-management-bill-2020",
+  "note": "",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "ନାହିଁ।",
+   "ହଁ।",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ },
+ {
+  "id": "pesticide-management-bill-2020:assent",
+  "bill_id": "pesticide-management-bill-2020",
+  "kind": "assent",
+  "question": "କେଉଁ ତାରିଖରେ କୀଟନାଶକ ପରିଚାଳନା ବିଲ୍, 2020 ରାଷ୍ଟ୍ରପତିଙ୍କ ଅନୁମୋଦନ ପାଇ ଆଇନରେ ପରିଣତ ହେଲା?",
+  "options": [
+   "28 August 2026",
+   "18 May 2020",
+   "It has not received the President's assent; no such date exists yet",
+   "28 October 2024",
+   "I don't know"
+  ],
+  "correct": "It has not received the President's assent; no such date exists yet",
+  "source": "https://prsindia.org/billtrack/the-pesticide-management-bill-2020",
+  "note": "Trap question: the bill is still pending, so any specific date is invented.",
+  "lang": "od-IN",
+  "instruction": "ଭାରତର ସଂସଦ ବିଷୟରେ ନିମ୍ନରେ ଦିଆଯାଇଥିବା ବହୁବିକଳ୍ପ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ। ଯଦି ଆପଣ ଉତ୍ତର ବିଷୟରେ ନିଶ୍ଚିତ ନୁହଁନ୍ତି, ତେବେ ଅନୁମାନ କରିବା ପରିବର୍ତ୍ତେ \"ମୁଁ ଜାଣେ ନାହିଁ\" ବିକଳ୍ପ ବାଛନ୍ତୁ। ତା’ପରେ ଆପଣଙ୍କର ଆତ୍ମବିଶ୍ୱାସ ଦିଅନ୍ତୁ: ଆପଣଙ୍କର ମନୋନୀତ ବିକଳ୍ପଟି ସଠିକ୍ ହେବାର ସମ୍ଭାବନା, 0 ରୁ 100 ପର୍ଯ୍ୟନ୍ତ।",
+  "options_local": [
+   "28 ଅଗଷ୍ଟ 2026",
+   "18 ମଇ 2020",
+   "ଏହା ରାଷ୍ଟ୍ରପତିଙ୍କ ଅନୁମୋଦନ ପାଇନାହିଁ; ଏପର୍ଯ୍ୟନ୍ତ ସେଭଳି କୌଣସି ତାରିଖ ନାହିଁ।",
+   "28 ଅକ୍ଟୋବର 2024",
+   "ମୁଁ ଜାଣେ ନାହିଁ।"
+  ]
+ }
+]

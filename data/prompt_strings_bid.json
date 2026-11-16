@@ -1,0 +1,49 @@
+{
+ "en-IN": {
+  "bill_id_label": "PRS bill ID:"
+ },
+ "hi-IN": {
+  "bill_id_label": "पीआरएस बिल आईडी:",
+  "back_translation": "PRS Bill ID:"
+ },
+ "bn-IN": {
+  "bill_id_label": "পিআরএস বিল আইডি:",
+  "back_translation": "PRS Bill ID:"
+ },
+ "ta-IN": {
+  "bill_id_label": "PRS பில் ID:",
+  "back_translation": "PRS Bill ID:"
+ },
+ "te-IN": {
+  "bill_id_label": "PRS బిల్లు ID:",
+  "back_translation": "PRS Bill ID:"
+ },
+ "mr-IN": {
+  "bill_id_label": "पी.आर.एस. बिल आयडी:",
+  "back_translation": "PRS Bill ID:"
+ },
+ "kn-IN": {
+  "bill_id_label": "ಪಿಆರ್‌ಎಸ್ ಬಿಲ್ ಐಡಿ:",
+  "back_translation": "PRS Bill ID:"
+ },
+ "gu-IN": {
+  "bill_id_label": "પીઆરએસ બિલ આઈડી:",
+  "back_translation": "PRS Bill ID:"
+ },
+ "ml-IN": {
+  "bill_id_label": "പി.ആർ.എസ്. ബിൽ ഐഡി:",
+  "back_translation": "PRS Bill ID:"
+ },
+ "pa-IN": {
+  "bill_id_label": "ਪੀ.ਆਰ.ਐਸ. ਬਿੱਲ ਆਈ.ਡੀ.:",
+  "back_translation": "PRS Bill ID:"
+ },
+ "od-IN": {
+  "bill_id_label": "PRS ବିଲ୍ ID:",
+  "back_translation": "PRS Bill ID:"
+ },
+ "ur-IN": {
+  "bill_id_label": "پی آر ایس بل آئی ڈی:",
+  "back_translation": "PRS Bill ID:"
+ }
+}

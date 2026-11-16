@@ -1,0 +1,1280 @@
+[
+ {
+  "id": "the-indian-statistical-institute-bill-2026:house",
+  "bill_id": "the-indian-statistical-institute-bill-2026",
+  "kind": "house",
+  "question": "ಭಾರತದ ಸಂಸತ್ತಿನ ಯಾವ ಸದನದಲ್ಲಿ ಭಾರತೀಯ ಸಂಖ್ಯಾಶಾಸ್ತ್ರೀಯ ಸಂಸ್ಥೆ ವಿಧೇಯಕ, 2026 ಅನ್ನು ಮಂಡಿಸಲಾಯಿತು?",
+  "options": [
+   "Rajya Sabha",
+   "Lok Sabha",
+   "I don't know"
+  ],
+  "correct": "Lok Sabha",
+  "source": "https://prsindia.org/billtrack/the-indian-statistical-institute-bill-2026",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ರಾಜ್ಯ ಸಭೆ",
+   "ಲೋಕ ಸಭೆ",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "the-indian-statistical-institute-bill-2026:introduced",
+  "bill_id": "the-indian-statistical-institute-bill-2026",
+  "kind": "introduced",
+  "question": "ಭಾರತೀಯ ಸಂಖ್ಯಾಶಾಸ್ತ್ರೀಯ ಸಂಸ್ಥೆ ವಿಧೇಯಕ, 2026 ಅವರನ್ನು ಸಂಸತ್ತಿನಲ್ಲಿ ಯಾವ ತಿಂಗಳು ಮತ್ತು ವರ್ಷದಲ್ಲಿ ಪರಿಚಯಿಸಲಾಯಿತು?",
+  "options": [
+   "August 2025",
+   "August 2026",
+   "November 2025",
+   "October 2026",
+   "I don't know"
+  ],
+  "correct": "August 2026",
+  "source": "https://prsindia.org/billtrack/the-indian-statistical-institute-bill-2026",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಆಗಸ್ಟ್ 2025",
+   "ಆಗಸ್ಟ್ 2026",
+   "ನವೆಂಬರ್ 2025",
+   "ಅಕ್ಟೋಬರ್ 2026",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "the-indian-statistical-institute-bill-2026:committee_type",
+  "bill_id": "the-indian-statistical-institute-bill-2026",
+  "kind": "committee_type",
+  "question": "ಭಾರತೀಯ ಸಂಖ್ಯಾಶಾಸ್ತ್ರೀಯ ಸಂಸ್ಥೆ ವಿಧೇಯಕ, 2026 ಅನ್ನು ಯಾವ ರೀತಿಯ ಸಂಸದೀಯ ಸಮಿತಿಯು ಪರಿಶೀಲಿಸುತ್ತಿದೆ?",
+  "options": [
+   "A joint committee of both Houses",
+   "A select committee of one House",
+   "A departmental standing committee",
+   "It has not been referred to any committee",
+   "I don't know"
+  ],
+  "correct": "A departmental standing committee",
+  "source": "https://prsindia.org/billtrack/the-indian-statistical-institute-bill-2026",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಉಭಯ ಸದನಗಳ ಜಂಟಿ ಸಮಿತಿ",
+   "ಒಂದು ಸದನದ ಆಯ್ದ ಸಮಿತಿ",
+   "ಇಲಾಖಾ ಸ್ಥಾಯಿ ಸಮಿತಿ",
+   "ಇದನ್ನು ಯಾವುದೇ ಸಮಿತಿಗೆ ಉಲ್ಲೇಖಿಸಲಾಗಿಲ್ಲ.",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "the-indian-statistical-institute-bill-2026:chair",
+  "bill_id": "the-indian-statistical-institute-bill-2026",
+  "kind": "chair",
+  "question": "ಭಾರತೀಯ ಸಂಖ್ಯಾಶಾಸ್ತ್ರೀಯ ಸಂಸ್ಥೆ ವಿಧೇಯಕ, 2026 ಅನ್ನು ಪರಿಶೀಲಿಸುತ್ತಿರುವ ಸಂಸದೀಯ ಸಮಿತಿಯ ಅಧ್ಯಕ್ಷರು ಯಾರು?",
+  "options": [
+   "Charanjit Singh Channi",
+   "Nishikant Dubey",
+   "Aparajita Sarangi",
+   "Bhartruhari Mahtab",
+   "I don't know"
+  ],
+  "correct": "Bhartruhari Mahtab",
+  "source": "https://prsindia.org/billtrack/the-indian-statistical-institute-bill-2026",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಚರಣ್‌ಜಿತ್ ಸಿಂಗ್ ಚನ್ನಿ",
+   "ನಿಶಿಕಾಂತ್ ದುಬೆ",
+   "ಅಪರಾಜಿತಾ ಸಾರಂಗಿ",
+   "ಭರ್ತೃಹಾರಿ ಮಹತಾಬ್",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "the-indian-statistical-institute-bill-2026:report",
+  "bill_id": "the-indian-statistical-institute-bill-2026",
+  "kind": "report",
+  "question": "ಭಾರತೀಯ ಸಂಖ್ಯಾಶಾಸ್ತ್ರೀಯ ಸಂಸ್ಥೆ ವಿಧೇಯಕ, 2026 ಅನ್ನು ಪರಿಶೀಲಿಸುತ್ತಿರುವ ಸಂಸದೀಯ ಸಮಿತಿಯು ತನ್ನ ವರದಿಯನ್ನು ಸಲ್ಲಿಸಿದೆಯೇ?",
+  "options": [
+   "No",
+   "Yes",
+   "I don't know"
+  ],
+  "correct": "No",
+  "source": "https://prsindia.org/billtrack/the-indian-statistical-institute-bill-2026",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಇಲ್ಲ",
+   "ಹೌದು",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "the-indian-statistical-institute-bill-2026:assent",
+  "bill_id": "the-indian-statistical-institute-bill-2026",
+  "kind": "assent",
+  "question": "ಭಾರತೀಯ ಸಂಖ್ಯಾಶಾಸ್ತ್ರೀಯ ಸಂಸ್ಥೆ ವಿಧೇಯಕ, 2026 ಯಾವ ದಿನಾಂಕದಂದು ರಾಷ್ಟ್ರಪತಿಗಳ ಅನುಮೋದನೆ ಪಡೆದು ಕಾನೂನಾಯಿತು?",
+  "options": [
+   "3 September 2026",
+   "It has not received the President's assent; no such date exists yet",
+   "10 October 2026",
+   "4 November 2026",
+   "I don't know"
+  ],
+  "correct": "It has not received the President's assent; no such date exists yet",
+  "source": "https://prsindia.org/billtrack/the-indian-statistical-institute-bill-2026",
+  "note": "Trap question: the bill is still pending, so any specific date is invented.",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "3 ಸೆಪ್ಟೆಂಬರ್ 2026",
+   "ಇದು ರಾಷ್ಟ್ರಪತಿಗಳ ಅನುಮೋದನೆಯನ್ನು ಪಡೆದಿಲ್ಲ; ಅಂತಹ ದಿನಾಂಕ ಇನ್ನೂ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ.",
+   "10 ಅಕ್ಟೋಬರ್ 2026",
+   "4 ನವೆಂಬರ್ 2026",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "foreign-contribution-regulation-amendment-bill-2026:house",
+  "bill_id": "foreign-contribution-regulation-amendment-bill-2026",
+  "kind": "house",
+  "question": "ಭಾರತದ ಸಂಸತ್ತಿನ ಯಾವ ಸದನದಲ್ಲಿ ವಿದೇಶಿ ದೇಣಿಗೆ (ನಿಯಂತ್ರಣ) ತಿದ್ದುಪಡಿ ಮಸೂದೆ, 2026 ಅನ್ನು ಮಂಡಿಸಲಾಯಿತು?",
+  "options": [
+   "Lok Sabha",
+   "Rajya Sabha",
+   "I don't know"
+  ],
+  "correct": "Lok Sabha",
+  "source": "https://prsindia.org/billtrack/the-foreign-contribution-regulation-amendment-bill-2026",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಲೋಕ ಸಭೆ",
+   "ರಾಜ್ಯ ಸಭೆ",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "foreign-contribution-regulation-amendment-bill-2026:introduced",
+  "bill_id": "foreign-contribution-regulation-amendment-bill-2026",
+  "kind": "introduced",
+  "question": "ವಿದೇಶಿ ದೇಣಿಗೆ (ನಿಯಂತ್ರಣ) ತಿದ್ದುಪಡಿ ಮಸೂದೆ, 2026 ಅವರನ್ನು ಸಂಸತ್ತಿನಲ್ಲಿ ಯಾವ ತಿಂಗಳು ಮತ್ತು ವರ್ಷದಲ್ಲಿ ಪರಿಚಯಿಸಲಾಯಿತು?",
+  "options": [
+   "December 2025",
+   "January 2026",
+   "March 2026",
+   "May 2026",
+   "I don't know"
+  ],
+  "correct": "March 2026",
+  "source": "https://prsindia.org/billtrack/the-foreign-contribution-regulation-amendment-bill-2026",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಡಿಸೆಂಬರ್ 2025",
+   "ಜನವರಿ 2026",
+   "ಮಾರ್ಚ್ 2026",
+   "ಮೇ 2026",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "foreign-contribution-regulation-amendment-bill-2026:committee_type",
+  "bill_id": "foreign-contribution-regulation-amendment-bill-2026",
+  "kind": "committee_type",
+  "question": "ವಿದೇಶಿ ದೇಣಿಗೆ (ನಿಯಂತ್ರಣ) ತಿದ್ದುಪಡಿ ಮಸೂದೆ, 2026 ಅನ್ನು ಯಾವ ರೀತಿಯ ಸಂಸದೀಯ ಸಮಿತಿಯು ಪರಿಶೀಲಿಸುತ್ತಿದೆ?",
+  "options": [
+   "A joint committee of both Houses",
+   "It has not been referred to any committee",
+   "A departmental standing committee",
+   "A select committee of one House",
+   "I don't know"
+  ],
+  "correct": "A joint committee of both Houses",
+  "source": "https://prsindia.org/billtrack/the-foreign-contribution-regulation-amendment-bill-2026",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಉಭಯ ಸದನಗಳ ಜಂಟಿ ಸಮಿತಿ",
+   "ಇದನ್ನು ಯಾವುದೇ ಸಮಿತಿಗೆ ಉಲ್ಲೇಖಿಸಲಾಗಿಲ್ಲ.",
+   "ಇಲಾಖಾ ಸ್ಥಾಯಿ ಸಮಿತಿ",
+   "ಒಂದು ಸದನದ ಆಯ್ದ ಸಮಿತಿ",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "foreign-contribution-regulation-amendment-bill-2026:chair",
+  "bill_id": "foreign-contribution-regulation-amendment-bill-2026",
+  "kind": "chair",
+  "question": "ವಿದೇಶಿ ದೇಣಿಗೆ (ನಿಯಂತ್ರಣ) ತಿದ್ದುಪಡಿ ಮಸೂದೆ, 2026 ಅನ್ನು ಪರಿಶೀಲಿಸುತ್ತಿರುವ ಸಂಸದೀಯ ಸಮಿತಿಯ ಅಧ್ಯಕ್ಷರು ಯಾರು?",
+  "options": [
+   "Kakoli Ghosh Dastidar",
+   "Sanjay Jaiswal",
+   "Mukul Balkrishna Wasnik",
+   "Sudhanshu Trivedi",
+   "I don't know"
+  ],
+  "correct": "Sanjay Jaiswal",
+  "source": "https://prsindia.org/billtrack/the-foreign-contribution-regulation-amendment-bill-2026",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಕಾಕೋಲಿ ಘೋಷ್ ದಸ್ತಿದಾರ್",
+   "ಸಂಜಯ್ ಜೈಸ್ವಾಲ್",
+   "ಮುಕುಲ್ ಬಾಲಕೃಷ್ಣ ವಾಸ್ನಿಕ್",
+   "ಸುಧಾಂಶು ತ್ರಿವೇದಿ",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "foreign-contribution-regulation-amendment-bill-2026:report",
+  "bill_id": "foreign-contribution-regulation-amendment-bill-2026",
+  "kind": "report",
+  "question": "ವಿದೇಶಿ ದೇಣಿಗೆ (ನಿಯಂತ್ರಣ) ತಿದ್ದುಪಡಿ ಮಸೂದೆ, 2026 ಅನ್ನು ಪರಿಶೀಲಿಸುತ್ತಿರುವ ಸಂಸದೀಯ ಸಮಿತಿಯು ತನ್ನ ವರದಿಯನ್ನು ಸಲ್ಲಿಸಿದೆಯೇ?",
+  "options": [
+   "No",
+   "Yes",
+   "I don't know"
+  ],
+  "correct": "No",
+  "source": "https://prsindia.org/billtrack/the-foreign-contribution-regulation-amendment-bill-2026",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಇಲ್ಲ",
+   "ಹೌದು",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "foreign-contribution-regulation-amendment-bill-2026:assent",
+  "bill_id": "foreign-contribution-regulation-amendment-bill-2026",
+  "kind": "assent",
+  "question": "ವಿದೇಶಿ ದೇಣಿಗೆ (ನಿಯಂತ್ರಣ) ತಿದ್ದುಪಡಿ ಮಸೂದೆ, 2026 ಯಾವ ದಿನಾಂಕದಂದು ರಾಷ್ಟ್ರಪತಿಗಳ ಅನುಮೋದನೆ ಪಡೆದು ಕಾನೂನಾಯಿತು?",
+  "options": [
+   "23 July 2026",
+   "21 August 2026",
+   "10 October 2026",
+   "It has not received the President's assent; no such date exists yet",
+   "I don't know"
+  ],
+  "correct": "It has not received the President's assent; no such date exists yet",
+  "source": "https://prsindia.org/billtrack/the-foreign-contribution-regulation-amendment-bill-2026",
+  "note": "Trap question: the bill is still pending, so any specific date is invented.",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "23 ಜುಲೈ 2026",
+   "21 ಆಗಸ್ಟ್ 2026",
+   "10 ಅಕ್ಟೋಬರ್ 2026",
+   "ಇದು ರಾಷ್ಟ್ರಪತಿಗಳ ಅನುಮೋದನೆಯನ್ನು ಪಡೆದಿಲ್ಲ; ಅಂತಹ ದಿನಾಂಕ ಇನ್ನೂ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ.",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "corporate-laws-amendment-2026:house",
+  "bill_id": "corporate-laws-amendment-2026",
+  "kind": "house",
+  "question": "ಭಾರತದ ಸಂಸತ್ತಿನ ಯಾವ ಸದನದಲ್ಲಿ ಕಾರ್ಪೊರೇಟ್ ಕಾನೂನುಗಳ (ತಿದ್ದುಪಡಿ) ಮಸೂದೆ, 2026 ಅನ್ನು ಮಂಡಿಸಲಾಯಿತು?",
+  "options": [
+   "Rajya Sabha",
+   "Lok Sabha",
+   "I don't know"
+  ],
+  "correct": "Lok Sabha",
+  "source": "https://prsindia.org/billtrack/the-corporate-laws-amendment-bill-2026",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ರಾಜ್ಯ ಸಭೆ",
+   "ಲೋಕ ಸಭೆ",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "corporate-laws-amendment-2026:introduced",
+  "bill_id": "corporate-laws-amendment-2026",
+  "kind": "introduced",
+  "question": "ಕಾರ್ಪೊರೇಟ್ ಕಾನೂನುಗಳ (ತಿದ್ದುಪಡಿ) ಮಸೂದೆ, 2026 ಅವರನ್ನು ಸಂಸತ್ತಿನಲ್ಲಿ ಯಾವ ತಿಂಗಳು ಮತ್ತು ವರ್ಷದಲ್ಲಿ ಪರಿಚಯಿಸಲಾಯಿತು?",
+  "options": [
+   "September 2025",
+   "July 2026",
+   "March 2026",
+   "March 2025",
+   "I don't know"
+  ],
+  "correct": "March 2026",
+  "source": "https://prsindia.org/billtrack/the-corporate-laws-amendment-bill-2026",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಸೆಪ್ಟೆಂಬರ್ 2025",
+   "ಜುಲೈ 2026",
+   "ಮಾರ್ಚ್ 2026",
+   "ಮಾರ್ಚ್ 2025",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "corporate-laws-amendment-2026:committee_type",
+  "bill_id": "corporate-laws-amendment-2026",
+  "kind": "committee_type",
+  "question": "ಕಾರ್ಪೊರೇಟ್ ಕಾನೂನುಗಳ (ತಿದ್ದುಪಡಿ) ಮಸೂದೆ, 2026 ಅನ್ನು ಯಾವ ರೀತಿಯ ಸಂಸದೀಯ ಸಮಿತಿಯು ಪರಿಶೀಲಿಸುತ್ತಿದೆ?",
+  "options": [
+   "A departmental standing committee",
+   "It has not been referred to any committee",
+   "A joint committee of both Houses",
+   "A select committee of one House",
+   "I don't know"
+  ],
+  "correct": "A joint committee of both Houses",
+  "source": "https://prsindia.org/billtrack/the-corporate-laws-amendment-bill-2026",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಇಲಾಖಾ ಸ್ಥಾಯಿ ಸಮಿತಿ",
+   "ಇದನ್ನು ಯಾವುದೇ ಸಮಿತಿಗೆ ಉಲ್ಲೇಖಿಸಲಾಗಿಲ್ಲ.",
+   "ಉಭಯ ಸದನಗಳ ಜಂಟಿ ಸಮಿತಿ",
+   "ಒಂದು ಸದನದ ಆಯ್ದ ಸಮಿತಿ",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "corporate-laws-amendment-2026:chair",
+  "bill_id": "corporate-laws-amendment-2026",
+  "kind": "chair",
+  "question": "ಕಾರ್ಪೊರೇಟ್ ಕಾನೂನುಗಳ (ತಿದ್ದುಪಡಿ) ಮಸೂದೆ, 2026 ಅನ್ನು ಪರಿಶೀಲಿಸುತ್ತಿರುವ ಸಂಸದೀಯ ಸಮಿತಿಯ ಅಧ್ಯಕ್ಷರು ಯಾರು?",
+  "options": [
+   "Sudheer Gupta",
+   "Sanjay Jaiswal",
+   "P P Chaudhary",
+   "Shashi Tharoor",
+   "I don't know"
+  ],
+  "correct": "Sudheer Gupta",
+  "source": "https://prsindia.org/billtrack/the-corporate-laws-amendment-bill-2026",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಸುಧೀರ್ ಗುಪ್ತಾ",
+   "ಸಂಜಯ್ ಜೈಸ್ವಾಲ್",
+   "ಪಿ ಪಿ ಚೌಧರಿ",
+   "ಶಶಿ ತರೂರ್",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "corporate-laws-amendment-2026:report",
+  "bill_id": "corporate-laws-amendment-2026",
+  "kind": "report",
+  "question": "ಕಾರ್ಪೊರೇಟ್ ಕಾನೂನುಗಳ (ತಿದ್ದುಪಡಿ) ಮಸೂದೆ, 2026 ಅನ್ನು ಪರಿಶೀಲಿಸುತ್ತಿರುವ ಸಂಸದೀಯ ಸಮಿತಿಯು ತನ್ನ ವರದಿಯನ್ನು ಸಲ್ಲಿಸಿದೆಯೇ?",
+  "options": [
+   "No",
+   "Yes",
+   "I don't know"
+  ],
+  "correct": "Yes",
+  "source": "https://prsindia.org/billtrack/the-corporate-laws-amendment-bill-2026",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಇಲ್ಲ",
+   "ಹೌದು",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "corporate-laws-amendment-2026:assent",
+  "bill_id": "corporate-laws-amendment-2026",
+  "kind": "assent",
+  "question": "ಕಾರ್ಪೊರೇಟ್ ಕಾನೂನುಗಳ (ತಿದ್ದುಪಡಿ) ಮಸೂದೆ, 2026 ಯಾವ ದಿನಾಂಕದಂದು ರಾಷ್ಟ್ರಪತಿಗಳ ಅನುಮೋದನೆ ಪಡೆದು ಕಾನೂನಾಯಿತು?",
+  "options": [
+   "It has not received the President's assent; no such date exists yet",
+   "15 May 2026",
+   "1 November 2026",
+   "1 June 2026",
+   "I don't know"
+  ],
+  "correct": "It has not received the President's assent; no such date exists yet",
+  "source": "https://prsindia.org/billtrack/the-corporate-laws-amendment-bill-2026",
+  "note": "Trap question: the bill is still pending, so any specific date is invented.",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಇದು ರಾಷ್ಟ್ರಪತಿಗಳ ಅನುಮೋದನೆಯನ್ನು ಪಡೆದಿಲ್ಲ; ಅಂತಹ ದಿನಾಂಕ ಇನ್ನೂ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ.",
+   "15 ಮೇ 2026",
+   "1 ನವೆಂಬರ್ 2026",
+   "1 ಜೂನ್ 2026",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "securities-markets-code-2025:house",
+  "bill_id": "securities-markets-code-2025",
+  "kind": "house",
+  "question": "ಭಾರತದ ಸಂಸತ್ತಿನ ಯಾವ ಸದನದಲ್ಲಿ ಭದ್ರತಾ ಮಾರುಕಟ್ಟೆಗಳ ಸಂಹಿತೆ, 2025 ಅನ್ನು ಮಂಡಿಸಲಾಯಿತು?",
+  "options": [
+   "Rajya Sabha",
+   "Lok Sabha",
+   "I don't know"
+  ],
+  "correct": "Lok Sabha",
+  "source": "https://prsindia.org/billtrack/the-securities-markets-code-2025",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ರಾಜ್ಯ ಸಭೆ",
+   "ಲೋಕ ಸಭೆ",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "securities-markets-code-2025:introduced",
+  "bill_id": "securities-markets-code-2025",
+  "kind": "introduced",
+  "question": "ಭದ್ರತಾ ಮಾರುಕಟ್ಟೆಗಳ ಸಂಹಿತೆ, 2025 ಅವರನ್ನು ಸಂಸತ್ತಿನಲ್ಲಿ ಯಾವ ತಿಂಗಳು ಮತ್ತು ವರ್ಷದಲ್ಲಿ ಪರಿಚಯಿಸಲಾಯಿತು?",
+  "options": [
+   "December 2024",
+   "December 2025",
+   "April 2026",
+   "June 2025",
+   "I don't know"
+  ],
+  "correct": "December 2025",
+  "source": "https://prsindia.org/billtrack/the-securities-markets-code-2025",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಡಿಸೆಂಬರ್ 2024",
+   "ಡಿಸೆಂಬರ್ 2025",
+   "ಏಪ್ರಿಲ್ 2026",
+   "ಜೂನ್ 2025",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "securities-markets-code-2025:committee_type",
+  "bill_id": "securities-markets-code-2025",
+  "kind": "committee_type",
+  "question": "ಭದ್ರತಾ ಮಾರುಕಟ್ಟೆಗಳ ಸಂಹಿತೆ, 2025 ಅನ್ನು ಯಾವ ರೀತಿಯ ಸಂಸದೀಯ ಸಮಿತಿಯು ಪರಿಶೀಲಿಸುತ್ತಿದೆ?",
+  "options": [
+   "A departmental standing committee",
+   "A select committee of one House",
+   "It has not been referred to any committee",
+   "A joint committee of both Houses",
+   "I don't know"
+  ],
+  "correct": "A departmental standing committee",
+  "source": "https://prsindia.org/billtrack/the-securities-markets-code-2025",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಇಲಾಖಾ ಸ್ಥಾಯಿ ಸಮಿತಿ",
+   "ಒಂದು ಸದನದ ಆಯ್ದ ಸಮಿತಿ",
+   "ಇದನ್ನು ಯಾವುದೇ ಸಮಿತಿಗೆ ಉಲ್ಲೇಖಿಸಲಾಗಿಲ್ಲ.",
+   "ಉಭಯ ಸದನಗಳ ಜಂಟಿ ಸಮಿತಿ",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "securities-markets-code-2025:chair",
+  "bill_id": "securities-markets-code-2025",
+  "kind": "chair",
+  "question": "ಭದ್ರತಾ ಮಾರುಕಟ್ಟೆಗಳ ಸಂಹಿತೆ, 2025 ಅನ್ನು ಪರಿಶೀಲಿಸುತ್ತಿರುವ ಸಂಸದೀಯ ಸಮಿತಿಯ ಅಧ್ಯಕ್ಷರು ಯಾರು?",
+  "options": [
+   "Sanjay Kumar Jha",
+   "Aparajita Sarangi",
+   "Bhartruhari Mahtab",
+   "Tatkare Sunil Dattatray",
+   "I don't know"
+  ],
+  "correct": "Bhartruhari Mahtab",
+  "source": "https://prsindia.org/billtrack/the-securities-markets-code-2025",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಸಂಜಯ್ ಕುಮಾರ್ ಝಾ",
+   "ಅಪರಾಜಿತಾ ಸಾರಂಗಿ",
+   "ಭರ್ತೃಹಾರಿ ಮಹತಾಬ್",
+   "ತತ್ಕರೆ ಸುನೀಲ್ ದತ್ತಾತ್ರೇಯ",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "securities-markets-code-2025:report",
+  "bill_id": "securities-markets-code-2025",
+  "kind": "report",
+  "question": "ಭದ್ರತಾ ಮಾರುಕಟ್ಟೆಗಳ ಸಂಹಿತೆ, 2025 ಅನ್ನು ಪರಿಶೀಲಿಸುತ್ತಿರುವ ಸಂಸದೀಯ ಸಮಿತಿಯು ತನ್ನ ವರದಿಯನ್ನು ಸಲ್ಲಿಸಿದೆಯೇ?",
+  "options": [
+   "Yes",
+   "No",
+   "I don't know"
+  ],
+  "correct": "Yes",
+  "source": "https://prsindia.org/billtrack/the-securities-markets-code-2025",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಹೌದು",
+   "ಇಲ್ಲ",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "securities-markets-code-2025:assent",
+  "bill_id": "securities-markets-code-2025",
+  "kind": "assent",
+  "question": "ಭದ್ರತಾ ಮಾರುಕಟ್ಟೆಗಳ ಸಂಹಿತೆ, 2025 ಯಾವ ದಿನಾಂಕದಂದು ರಾಷ್ಟ್ರಪತಿಗಳ ಅನುಮೋದನೆ ಪಡೆದು ಕಾನೂನಾಯಿತು?",
+  "options": [
+   "10 February 2026",
+   "11 March 2026",
+   "It has not received the President's assent; no such date exists yet",
+   "19 July 2026",
+   "I don't know"
+  ],
+  "correct": "It has not received the President's assent; no such date exists yet",
+  "source": "https://prsindia.org/billtrack/the-securities-markets-code-2025",
+  "note": "Trap question: the bill is still pending, so any specific date is invented.",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "10 ಫೆಬ್ರವರಿ 2026",
+   "11 ಮಾರ್ಚ್ 2026",
+   "ಇದು ರಾಷ್ಟ್ರಪತಿಗಳ ಅನುಮೋದನೆಯನ್ನು ಪಡೆದಿಲ್ಲ; ಅಂತಹ ದಿನಾಂಕ ಇನ್ನೂ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ.",
+   "19 ಜುಲೈ 2026",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "viksit-bharat-shiksha-adhishthan-2025:house",
+  "bill_id": "viksit-bharat-shiksha-adhishthan-2025",
+  "kind": "house",
+  "question": "ಭಾರತದ ಸಂಸತ್ತಿನ ಯಾವ ಸದನದಲ್ಲಿ ವಿಕಸಿತ ಭಾರತ ಶಿಕ್ಷಾ ಅಧೀಷ್ಠಾನ ಮಸೂದೆ, 2025 ಅನ್ನು ಮಂಡಿಸಲಾಯಿತು?",
+  "options": [
+   "Rajya Sabha",
+   "Lok Sabha",
+   "I don't know"
+  ],
+  "correct": "Lok Sabha",
+  "source": "https://prsindia.org/billtrack/the-viksit-bharat-shiksha-adhishthan-bill-2025",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ರಾಜ್ಯ ಸಭೆ",
+   "ಲೋಕ ಸಭೆ",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "viksit-bharat-shiksha-adhishthan-2025:introduced",
+  "bill_id": "viksit-bharat-shiksha-adhishthan-2025",
+  "kind": "introduced",
+  "question": "ವಿಕಸಿತ ಭಾರತ ಶಿಕ್ಷಾ ಅಧೀಷ್ಠಾನ ಮಸೂದೆ, 2025 ಅವರನ್ನು ಸಂಸತ್ತಿನಲ್ಲಿ ಯಾವ ತಿಂಗಳು ಮತ್ತು ವರ್ಷದಲ್ಲಿ ಪರಿಚಯಿಸಲಾಯಿತು?",
+  "options": [
+   "April 2026",
+   "August 2025",
+   "October 2025",
+   "December 2025",
+   "I don't know"
+  ],
+  "correct": "December 2025",
+  "source": "https://prsindia.org/billtrack/the-viksit-bharat-shiksha-adhishthan-bill-2025",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಏಪ್ರಿಲ್ 2026",
+   "ಆಗಸ್ಟ್ 2025",
+   "ಅಕ್ಟೋಬರ್ 2025",
+   "ಡಿಸೆಂಬರ್ 2025",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "viksit-bharat-shiksha-adhishthan-2025:committee_type",
+  "bill_id": "viksit-bharat-shiksha-adhishthan-2025",
+  "kind": "committee_type",
+  "question": "ವಿಕಸಿತ ಭಾರತ ಶಿಕ್ಷಾ ಅಧೀಷ್ಠಾನ ಮಸೂದೆ, 2025 ಅನ್ನು ಯಾವ ರೀತಿಯ ಸಂಸದೀಯ ಸಮಿತಿಯು ಪರಿಶೀಲಿಸುತ್ತಿದೆ?",
+  "options": [
+   "A select committee of one House",
+   "It has not been referred to any committee",
+   "A departmental standing committee",
+   "A joint committee of both Houses",
+   "I don't know"
+  ],
+  "correct": "A joint committee of both Houses",
+  "source": "https://prsindia.org/billtrack/the-viksit-bharat-shiksha-adhishthan-bill-2025",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಒಂದು ಸದನದ ಆಯ್ದ ಸಮಿತಿ",
+   "ಇದನ್ನು ಯಾವುದೇ ಸಮಿತಿಗೆ ಉಲ್ಲೇಖಿಸಲಾಗಿಲ್ಲ.",
+   "ಇಲಾಖಾ ಸ್ಥಾಯಿ ಸಮಿತಿ",
+   "ಉಭಯ ಸದನಗಳ ಜಂಟಿ ಸಮಿತಿ",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "viksit-bharat-shiksha-adhishthan-2025:chair",
+  "bill_id": "viksit-bharat-shiksha-adhishthan-2025",
+  "kind": "chair",
+  "question": "ವಿಕಸಿತ ಭಾರತ ಶಿಕ್ಷಾ ಅಧೀಷ್ಠಾನ ಮಸೂದೆ, 2025 ಅನ್ನು ಪರಿಶೀಲಿಸುತ್ತಿರುವ ಸಂಸದೀಯ ಸಮಿತಿಯ ಅಧ್ಯಕ್ಷರು ಯಾರು?",
+  "options": [
+   "Magunta Srinivasulu Reddy",
+   "Kakoli Ghosh Dastidar",
+   "Daggubati Purandeswari",
+   "Sudhanshu Trivedi",
+   "I don't know"
+  ],
+  "correct": "Daggubati Purandeswari",
+  "source": "https://prsindia.org/billtrack/the-viksit-bharat-shiksha-adhishthan-bill-2025",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಮಾಗುಂಟ ಶ್ರೀನಿವಾಸಲು ರೆಡ್ಡಿ",
+   "ಕಾಕೋಲಿ ಘೋಷ್ ದಸ್ತಿದಾರ್",
+   "ದಗ್ಗುಬಾಟಿ ಪುರಂದೇಶ್ವರಿ",
+   "ಸುಧಾಂಶು ತ್ರಿವೇದಿ",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "viksit-bharat-shiksha-adhishthan-2025:report",
+  "bill_id": "viksit-bharat-shiksha-adhishthan-2025",
+  "kind": "report",
+  "question": "ವಿಕಸಿತ ಭಾರತ ಶಿಕ್ಷಾ ಅಧೀಷ್ಠಾನ ಮಸೂದೆ, 2025 ಅನ್ನು ಪರಿಶೀಲಿಸುತ್ತಿರುವ ಸಂಸದೀಯ ಸಮಿತಿಯು ತನ್ನ ವರದಿಯನ್ನು ಸಲ್ಲಿಸಿದೆಯೇ?",
+  "options": [
+   "Yes",
+   "No",
+   "I don't know"
+  ],
+  "correct": "No",
+  "source": "https://prsindia.org/billtrack/the-viksit-bharat-shiksha-adhishthan-bill-2025",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಹೌದು",
+   "ಇಲ್ಲ",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "viksit-bharat-shiksha-adhishthan-2025:assent",
+  "bill_id": "viksit-bharat-shiksha-adhishthan-2025",
+  "kind": "assent",
+  "question": "ವಿಕಸಿತ ಭಾರತ ಶಿಕ್ಷಾ ಅಧೀಷ್ಠಾನ ಮಸೂದೆ, 2025 ಯಾವ ದಿನಾಂಕದಂದು ರಾಷ್ಟ್ರಪತಿಗಳ ಅನುಮೋದನೆ ಪಡೆದು ಕಾನೂನಾಯಿತು?",
+  "options": [
+   "It has not received the President's assent; no such date exists yet",
+   "24 January 2026",
+   "11 June 2026",
+   "17 February 2026",
+   "I don't know"
+  ],
+  "correct": "It has not received the President's assent; no such date exists yet",
+  "source": "https://prsindia.org/billtrack/the-viksit-bharat-shiksha-adhishthan-bill-2025",
+  "note": "Trap question: the bill is still pending, so any specific date is invented.",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಇದು ರಾಷ್ಟ್ರಪತಿಗಳ ಅನುಮೋದನೆಯನ್ನು ಪಡೆದಿಲ್ಲ; ಅಂತಹ ದಿನಾಂಕ ಇನ್ನೂ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ.",
+   "24 ಜನವರಿ 2026",
+   "11 ಜೂನ್ 2026",
+   "17 ಫೆಬ್ರವರಿ 2026",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "govt-union-territories-amendment-2025:house",
+  "bill_id": "govt-union-territories-amendment-2025",
+  "kind": "house",
+  "question": "ಭಾರತದ ಸಂಸತ್ತಿನ ಯಾವ ಸದನದಲ್ಲಿ ಕೇಂದ್ರಾಡಳಿತ ಪ್ರದೇಶಗಳ ಸರ್ಕಾರ (ತಿದ್ದುಪಡಿ) ಮಸೂದೆ, 2025 ಅನ್ನು ಮಂಡಿಸಲಾಯಿತು?",
+  "options": [
+   "Rajya Sabha",
+   "Lok Sabha",
+   "I don't know"
+  ],
+  "correct": "Lok Sabha",
+  "source": "https://prsindia.org/billtrack/the-government-of-union-territories-amendment-bill-2025",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ರಾಜ್ಯ ಸಭೆ",
+   "ಲೋಕ ಸಭೆ",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "govt-union-territories-amendment-2025:introduced",
+  "bill_id": "govt-union-territories-amendment-2025",
+  "kind": "introduced",
+  "question": "ಕೇಂದ್ರಾಡಳಿತ ಪ್ರದೇಶಗಳ ಸರ್ಕಾರ (ತಿದ್ದುಪಡಿ) ಮಸೂದೆ, 2025 ಅವರನ್ನು ಸಂಸತ್ತಿನಲ್ಲಿ ಯಾವ ತಿಂಗಳು ಮತ್ತು ವರ್ಷದಲ್ಲಿ ಪರಿಚಯಿಸಲಾಯಿತು?",
+  "options": [
+   "February 2026",
+   "December 2025",
+   "August 2025",
+   "February 2025",
+   "I don't know"
+  ],
+  "correct": "August 2025",
+  "source": "https://prsindia.org/billtrack/the-government-of-union-territories-amendment-bill-2025",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಫೆಬ್ರವರಿ 2026",
+   "ಡಿಸೆಂಬರ್ 2025",
+   "ಆಗಸ್ಟ್ 2025",
+   "ಫೆಬ್ರವರಿ 2025",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "govt-union-territories-amendment-2025:committee_type",
+  "bill_id": "govt-union-territories-amendment-2025",
+  "kind": "committee_type",
+  "question": "ಕೇಂದ್ರಾಡಳಿತ ಪ್ರದೇಶಗಳ ಸರ್ಕಾರ (ತಿದ್ದುಪಡಿ) ಮಸೂದೆ, 2025 ಅನ್ನು ಯಾವ ರೀತಿಯ ಸಂಸದೀಯ ಸಮಿತಿಯು ಪರಿಶೀಲಿಸುತ್ತಿದೆ?",
+  "options": [
+   "A departmental standing committee",
+   "A joint committee of both Houses",
+   "A select committee of one House",
+   "It has not been referred to any committee",
+   "I don't know"
+  ],
+  "correct": "A joint committee of both Houses",
+  "source": "https://prsindia.org/billtrack/the-government-of-union-territories-amendment-bill-2025",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಇಲಾಖಾ ಸ್ಥಾಯಿ ಸಮಿತಿ",
+   "ಉಭಯ ಸದನಗಳ ಜಂಟಿ ಸಮಿತಿ",
+   "ಒಂದು ಸದನದ ಆಯ್ದ ಸಮಿತಿ",
+   "ಇದನ್ನು ಯಾವುದೇ ಸಮಿತಿಗೆ ಉಲ್ಲೇಖಿಸಲಾಗಿಲ್ಲ.",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "govt-union-territories-amendment-2025:chair",
+  "bill_id": "govt-union-territories-amendment-2025",
+  "kind": "chair",
+  "question": "ಕೇಂದ್ರಾಡಳಿತ ಪ್ರದೇಶಗಳ ಸರ್ಕಾರ (ತಿದ್ದುಪಡಿ) ಮಸೂದೆ, 2025 ಅನ್ನು ಪರಿಶೀಲಿಸುತ್ತಿರುವ ಸಂಸದೀಯ ಸಮಿತಿಯ ಅಧ್ಯಕ್ಷರು ಯಾರು?",
+  "options": [
+   "Charanjit Singh Channi",
+   "Jagdambika Pal",
+   "Rajiv Pratap Rudy",
+   "Aparajita Sarangi",
+   "I don't know"
+  ],
+  "correct": "Aparajita Sarangi",
+  "source": "https://prsindia.org/billtrack/the-government-of-union-territories-amendment-bill-2025",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಚರಣ್‌ಜಿತ್ ಸಿಂಗ್ ಚನ್ನಿ",
+   "ಜಗದಂಬಿಕಾ ಪಾಲ್",
+   "ರಾಜೀವ್ ಪ್ರತಾಪ್ ರೂಡಿ",
+   "ಅಪರಾಜಿತಾ ಸಾರಂಗಿ",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "govt-union-territories-amendment-2025:report",
+  "bill_id": "govt-union-territories-amendment-2025",
+  "kind": "report",
+  "question": "ಕೇಂದ್ರಾಡಳಿತ ಪ್ರದೇಶಗಳ ಸರ್ಕಾರ (ತಿದ್ದುಪಡಿ) ಮಸೂದೆ, 2025 ಅನ್ನು ಪರಿಶೀಲಿಸುತ್ತಿರುವ ಸಂಸದೀಯ ಸಮಿತಿಯು ತನ್ನ ವರದಿಯನ್ನು ಸಲ್ಲಿಸಿದೆಯೇ?",
+  "options": [
+   "No",
+   "Yes",
+   "I don't know"
+  ],
+  "correct": "No",
+  "source": "https://prsindia.org/billtrack/the-government-of-union-territories-amendment-bill-2025",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಇಲ್ಲ",
+   "ಹೌದು",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "govt-union-territories-amendment-2025:assent",
+  "bill_id": "govt-union-territories-amendment-2025",
+  "kind": "assent",
+  "question": "ಕೇಂದ್ರಾಡಳಿತ ಪ್ರದೇಶಗಳ ಸರ್ಕಾರ (ತಿದ್ದುಪಡಿ) ಮಸೂದೆ, 2025 ಯಾವ ದಿನಾಂಕದಂದು ರಾಷ್ಟ್ರಪತಿಗಳ ಅನುಮೋದನೆ ಪಡೆದು ಕಾನೂನಾಯಿತು?",
+  "options": [
+   "It has not received the President's assent; no such date exists yet",
+   "12 December 2025",
+   "16 November 2025",
+   "17 March 2026",
+   "I don't know"
+  ],
+  "correct": "It has not received the President's assent; no such date exists yet",
+  "source": "https://prsindia.org/billtrack/the-government-of-union-territories-amendment-bill-2025",
+  "note": "Trap question: the bill is still pending, so any specific date is invented.",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಇದು ರಾಷ್ಟ್ರಪತಿಗಳ ಅನುಮೋದನೆಯನ್ನು ಪಡೆದಿಲ್ಲ; ಅಂತಹ ದಿನಾಂಕ ಇನ್ನೂ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ.",
+   "12 ಡಿಸೆಂಬರ್ 2025",
+   "16 ನವೆಂಬರ್ 2025",
+   "17 ಮಾರ್ಚ್ 2026",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "jk-reorganisation-amendment-2025:house",
+  "bill_id": "jk-reorganisation-amendment-2025",
+  "kind": "house",
+  "question": "ಭಾರತದ ಸಂಸತ್ತಿನ ಯಾವ ಸದನದಲ್ಲಿ ಜಮ್ಮು ಮತ್ತು ಕಾಶ್ಮೀರ ಪುನಾರಚನೆ (ತಿದ್ದುಪಡಿ) ಮಸೂದೆ, 2025 ಅನ್ನು ಮಂಡಿಸಲಾಯಿತು?",
+  "options": [
+   "Rajya Sabha",
+   "Lok Sabha",
+   "I don't know"
+  ],
+  "correct": "Lok Sabha",
+  "source": "https://prsindia.org/billtrack/the-jammu-and-kashmir-reorganisation-amendment-bill-2025",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ರಾಜ್ಯ ಸಭೆ",
+   "ಲೋಕ ಸಭೆ",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "jk-reorganisation-amendment-2025:introduced",
+  "bill_id": "jk-reorganisation-amendment-2025",
+  "kind": "introduced",
+  "question": "ಜಮ್ಮು ಮತ್ತು ಕಾಶ್ಮೀರ ಪುನಾರಚನೆ (ತಿದ್ದುಪಡಿ) ಮಸೂದೆ, 2025 ಅವರನ್ನು ಸಂಸತ್ತಿನಲ್ಲಿ ಯಾವ ತಿಂಗಳು ಮತ್ತು ವರ್ಷದಲ್ಲಿ ಪರಿಚಯಿಸಲಾಯಿತು?",
+  "options": [
+   "February 2025",
+   "August 2025",
+   "November 2024",
+   "November 2025",
+   "I don't know"
+  ],
+  "correct": "August 2025",
+  "source": "https://prsindia.org/billtrack/the-jammu-and-kashmir-reorganisation-amendment-bill-2025",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಫೆಬ್ರವರಿ 2025",
+   "ಆಗಸ್ಟ್ 2025",
+   "ನವೆಂಬರ್ 2024",
+   "ನವೆಂಬರ್ 2025",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "jk-reorganisation-amendment-2025:committee_type",
+  "bill_id": "jk-reorganisation-amendment-2025",
+  "kind": "committee_type",
+  "question": "ಜಮ್ಮು ಮತ್ತು ಕಾಶ್ಮೀರ ಪುನಾರಚನೆ (ತಿದ್ದುಪಡಿ) ಮಸೂದೆ, 2025 ಅನ್ನು ಯಾವ ರೀತಿಯ ಸಂಸದೀಯ ಸಮಿತಿಯು ಪರಿಶೀಲಿಸುತ್ತಿದೆ?",
+  "options": [
+   "A select committee of one House",
+   "A departmental standing committee",
+   "A joint committee of both Houses",
+   "It has not been referred to any committee",
+   "I don't know"
+  ],
+  "correct": "A joint committee of both Houses",
+  "source": "https://prsindia.org/billtrack/the-jammu-and-kashmir-reorganisation-amendment-bill-2025",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಒಂದು ಸದನದ ಆಯ್ದ ಸಮಿತಿ",
+   "ಇಲಾಖಾ ಸ್ಥಾಯಿ ಸಮಿತಿ",
+   "ಉಭಯ ಸದನಗಳ ಜಂಟಿ ಸಮಿತಿ",
+   "ಇದನ್ನು ಯಾವುದೇ ಸಮಿತಿಗೆ ಉಲ್ಲೇಖಿಸಲಾಗಿಲ್ಲ.",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "jk-reorganisation-amendment-2025:chair",
+  "bill_id": "jk-reorganisation-amendment-2025",
+  "kind": "chair",
+  "question": "ಜಮ್ಮು ಮತ್ತು ಕಾಶ್ಮೀರ ಪುನಾರಚನೆ (ತಿದ್ದುಪಡಿ) ಮಸೂದೆ, 2025 ಅನ್ನು ಪರಿಶೀಲಿಸುತ್ತಿರುವ ಸಂಸದೀಯ ಸಮಿತಿಯ ಅಧ್ಯಕ್ಷರು ಯಾರು?",
+  "options": [
+   "Rajiv Pratap Rudy",
+   "Aparajita Sarangi",
+   "Tatkare Sunil Dattatray",
+   "Tiruchi Siva",
+   "I don't know"
+  ],
+  "correct": "Aparajita Sarangi",
+  "source": "https://prsindia.org/billtrack/the-jammu-and-kashmir-reorganisation-amendment-bill-2025",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ರಾಜೀವ್ ಪ್ರತಾಪ್ ರೂಡಿ",
+   "ಅಪರಾಜಿತಾ ಸಾರಂಗಿ",
+   "ತತ್ಕರೆ ಸುನೀಲ್ ದತ್ತಾತ್ರೇಯ",
+   "ತಿರುಚಿ ಶಿವ",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "jk-reorganisation-amendment-2025:report",
+  "bill_id": "jk-reorganisation-amendment-2025",
+  "kind": "report",
+  "question": "ಜಮ್ಮು ಮತ್ತು ಕಾಶ್ಮೀರ ಪುನಾರಚನೆ (ತಿದ್ದುಪಡಿ) ಮಸೂದೆ, 2025 ಅನ್ನು ಪರಿಶೀಲಿಸುತ್ತಿರುವ ಸಂಸದೀಯ ಸಮಿತಿಯು ತನ್ನ ವರದಿಯನ್ನು ಸಲ್ಲಿಸಿದೆಯೇ?",
+  "options": [
+   "Yes",
+   "No",
+   "I don't know"
+  ],
+  "correct": "No",
+  "source": "https://prsindia.org/billtrack/the-jammu-and-kashmir-reorganisation-amendment-bill-2025",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಹೌದು",
+   "ಇಲ್ಲ",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "jk-reorganisation-amendment-2025:assent",
+  "bill_id": "jk-reorganisation-amendment-2025",
+  "kind": "assent",
+  "question": "ಜಮ್ಮು ಮತ್ತು ಕಾಶ್ಮೀರ ಪುನಾರಚನೆ (ತಿದ್ದುಪಡಿ) ಮಸೂದೆ, 2025 ಯಾವ ದಿನಾಂಕದಂದು ರಾಷ್ಟ್ರಪತಿಗಳ ಅನುಮೋದನೆ ಪಡೆದು ಕಾನೂನಾಯಿತು?",
+  "options": [
+   "21 February 2026",
+   "It has not received the President's assent; no such date exists yet",
+   "11 November 2025",
+   "11 February 2026",
+   "I don't know"
+  ],
+  "correct": "It has not received the President's assent; no such date exists yet",
+  "source": "https://prsindia.org/billtrack/the-jammu-and-kashmir-reorganisation-amendment-bill-2025",
+  "note": "Trap question: the bill is still pending, so any specific date is invented.",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "21 ಫೆಬ್ರವರಿ 2026",
+   "ಇದು ರಾಷ್ಟ್ರಪತಿಗಳ ಅನುಮೋದನೆಯನ್ನು ಪಡೆದಿಲ್ಲ; ಅಂತಹ ದಿನಾಂಕ ಇನ್ನೂ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ.",
+   "11 ನವೆಂಬರ್ 2025",
+   "11 ಫೆಬ್ರವರಿ 2026",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "constitution-129th-amendment-2024:house",
+  "bill_id": "constitution-129th-amendment-2024",
+  "kind": "house",
+  "question": "ಭಾರತದ ಸಂಸತ್ತಿನ ಯಾವ ಸದನದಲ್ಲಿ ಸಂವಿಧಾನ (129ನೇ ತಿದ್ದುಪಡಿ) ಮಸೂದೆ, 2024 ಅನ್ನು ಮಂಡಿಸಲಾಯಿತು?",
+  "options": [
+   "Rajya Sabha",
+   "Lok Sabha",
+   "I don't know"
+  ],
+  "correct": "Lok Sabha",
+  "source": "https://prsindia.org/billtrack/the-constitution-one-hundred-and-twenty-ninth-amendment-bill-2024",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ರಾಜ್ಯ ಸಭೆ",
+   "ಲೋಕ ಸಭೆ",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "constitution-129th-amendment-2024:introduced",
+  "bill_id": "constitution-129th-amendment-2024",
+  "kind": "introduced",
+  "question": "ಸಂವಿಧಾನ (129ನೇ ತಿದ್ದುಪಡಿ) ಮಸೂದೆ, 2024 ಅವರನ್ನು ಸಂಸತ್ತಿನಲ್ಲಿ ಯಾವ ತಿಂಗಳು ಮತ್ತು ವರ್ಷದಲ್ಲಿ ಪರಿಚಯಿಸಲಾಯಿತು?",
+  "options": [
+   "February 2025",
+   "June 2025",
+   "December 2024",
+   "June 2024",
+   "I don't know"
+  ],
+  "correct": "December 2024",
+  "source": "https://prsindia.org/billtrack/the-constitution-one-hundred-and-twenty-ninth-amendment-bill-2024",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಫೆಬ್ರವರಿ 2025",
+   "ಜೂನ್ 2025",
+   "ಡಿಸೆಂಬರ್ 2024",
+   "ಜೂನ್ 2024",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "constitution-129th-amendment-2024:committee_type",
+  "bill_id": "constitution-129th-amendment-2024",
+  "kind": "committee_type",
+  "question": "ಸಂವಿಧಾನ (129ನೇ ತಿದ್ದುಪಡಿ) ಮಸೂದೆ, 2024 ಅನ್ನು ಯಾವ ರೀತಿಯ ಸಂಸದೀಯ ಸಮಿತಿಯು ಪರಿಶೀಲಿಸುತ್ತಿದೆ?",
+  "options": [
+   "A joint committee of both Houses",
+   "A departmental standing committee",
+   "It has not been referred to any committee",
+   "A select committee of one House",
+   "I don't know"
+  ],
+  "correct": "A joint committee of both Houses",
+  "source": "https://prsindia.org/billtrack/the-constitution-one-hundred-and-twenty-ninth-amendment-bill-2024",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಉಭಯ ಸದನಗಳ ಜಂಟಿ ಸಮಿತಿ",
+   "ಇಲಾಖಾ ಸ್ಥಾಯಿ ಸಮಿತಿ",
+   "ಇದನ್ನು ಯಾವುದೇ ಸಮಿತಿಗೆ ಉಲ್ಲೇಖಿಸಲಾಗಿಲ್ಲ.",
+   "ಒಂದು ಸದನದ ಆಯ್ದ ಸಮಿತಿ",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "constitution-129th-amendment-2024:chair",
+  "bill_id": "constitution-129th-amendment-2024",
+  "kind": "chair",
+  "question": "ಸಂವಿಧಾನ (129ನೇ ತಿದ್ದುಪಡಿ) ಮಸೂದೆ, 2024 ಅನ್ನು ಪರಿಶೀಲಿಸುತ್ತಿರುವ ಸಂಸದೀಯ ಸಮಿತಿಯ ಅಧ್ಯಕ್ಷರು ಯಾರು?",
+  "options": [
+   "P P Chaudhary",
+   "Radha Mohan Das Agarwal",
+   "Shashank Mani",
+   "Bhartruhari Mahtab",
+   "I don't know"
+  ],
+  "correct": "P P Chaudhary",
+  "source": "https://prsindia.org/billtrack/the-constitution-one-hundred-and-twenty-ninth-amendment-bill-2024",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಪಿ ಪಿ ಚೌಧರಿ",
+   "ರಾಧಾ ಮೋಹನ್ ದಾಸ್ ಅಗರ್ವಾಲ್",
+   "ಶಶಾಂಕ ಮಣಿ",
+   "ಭರ್ತೃಹಾರಿ ಮಹತಾಬ್",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "constitution-129th-amendment-2024:report",
+  "bill_id": "constitution-129th-amendment-2024",
+  "kind": "report",
+  "question": "ಸಂವಿಧಾನ (129ನೇ ತಿದ್ದುಪಡಿ) ಮಸೂದೆ, 2024 ಅನ್ನು ಪರಿಶೀಲಿಸುತ್ತಿರುವ ಸಂಸದೀಯ ಸಮಿತಿಯು ತನ್ನ ವರದಿಯನ್ನು ಸಲ್ಲಿಸಿದೆಯೇ?",
+  "options": [
+   "No",
+   "Yes",
+   "I don't know"
+  ],
+  "correct": "No",
+  "source": "https://prsindia.org/billtrack/the-constitution-one-hundred-and-twenty-ninth-amendment-bill-2024",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಇಲ್ಲ",
+   "ಹೌದು",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "constitution-129th-amendment-2024:assent",
+  "bill_id": "constitution-129th-amendment-2024",
+  "kind": "assent",
+  "question": "ಸಂವಿಧಾನ (129ನೇ ತಿದ್ದುಪಡಿ) ಮಸೂದೆ, 2024 ಯಾವ ದಿನಾಂಕದಂದು ರಾಷ್ಟ್ರಪತಿಗಳ ಅನುಮೋದನೆ ಪಡೆದು ಕಾನೂನಾಯಿತು?",
+  "options": [
+   "2 November 2025",
+   "22 September 2026",
+   "20 October 2025",
+   "It has not received the President's assent; no such date exists yet",
+   "I don't know"
+  ],
+  "correct": "It has not received the President's assent; no such date exists yet",
+  "source": "https://prsindia.org/billtrack/the-constitution-one-hundred-and-twenty-ninth-amendment-bill-2024",
+  "note": "Trap question: the bill is still pending, so any specific date is invented.",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "2 ನವೆಂಬರ್ 2025",
+   "22 ಸೆಪ್ಟೆಂಬರ್ 2026",
+   "20 ಅಕ್ಟೋಬರ್ 2025",
+   "ಇದು ರಾಷ್ಟ್ರಪತಿಗಳ ಅನುಮೋದನೆಯನ್ನು ಪಡೆದಿಲ್ಲ; ಅಂತಹ ದಿನಾಂಕ ಇನ್ನೂ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ.",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "pesticide-management-bill-2020:house",
+  "bill_id": "pesticide-management-bill-2020",
+  "kind": "house",
+  "question": "ಭಾರತದ ಸಂಸತ್ತಿನ ಯಾವ ಸದನದಲ್ಲಿ ಕೀಟನಾಶಕ ನಿರ್ವಹಣಾ ಮಸೂದೆ, 2020 ಅನ್ನು ಮಂಡಿಸಲಾಯಿತು?",
+  "options": [
+   "Lok Sabha",
+   "Rajya Sabha",
+   "I don't know"
+  ],
+  "correct": "Rajya Sabha",
+  "source": "https://prsindia.org/billtrack/the-pesticide-management-bill-2020",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಲೋಕ ಸಭೆ",
+   "ರಾಜ್ಯ ಸಭೆ",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "pesticide-management-bill-2020:introduced",
+  "bill_id": "pesticide-management-bill-2020",
+  "kind": "introduced",
+  "question": "ಕೀಟನಾಶಕ ನಿರ್ವಹಣಾ ಮಸೂದೆ, 2020 ಅವರನ್ನು ಸಂಸತ್ತಿನಲ್ಲಿ ಯಾವ ತಿಂಗಳು ಮತ್ತು ವರ್ಷದಲ್ಲಿ ಪರಿಚಯಿಸಲಾಯಿತು?",
+  "options": [
+   "March 2019",
+   "September 2019",
+   "May 2020",
+   "March 2020",
+   "I don't know"
+  ],
+  "correct": "March 2020",
+  "source": "https://prsindia.org/billtrack/the-pesticide-management-bill-2020",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಮಾರ್ಚ್ 2019",
+   "ಸೆಪ್ಟೆಂಬರ್ 2019",
+   "ಮೇ 2020",
+   "ಮಾರ್ಚ್ 2020",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "pesticide-management-bill-2020:committee_type",
+  "bill_id": "pesticide-management-bill-2020",
+  "kind": "committee_type",
+  "question": "ಕೀಟನಾಶಕ ನಿರ್ವಹಣಾ ಮಸೂದೆ, 2020 ಅನ್ನು ಯಾವ ರೀತಿಯ ಸಂಸದೀಯ ಸಮಿತಿಯು ಪರಿಶೀಲಿಸುತ್ತಿದೆ?",
+  "options": [
+   "A joint committee of both Houses",
+   "A departmental standing committee",
+   "It has not been referred to any committee",
+   "A select committee of one House",
+   "I don't know"
+  ],
+  "correct": "A departmental standing committee",
+  "source": "https://prsindia.org/billtrack/the-pesticide-management-bill-2020",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಉಭಯ ಸದನಗಳ ಜಂಟಿ ಸಮಿತಿ",
+   "ಇಲಾಖಾ ಸ್ಥಾಯಿ ಸಮಿತಿ",
+   "ಇದನ್ನು ಯಾವುದೇ ಸಮಿತಿಗೆ ಉಲ್ಲೇಖಿಸಲಾಗಿಲ್ಲ.",
+   "ಒಂದು ಸದನದ ಆಯ್ದ ಸಮಿತಿ",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "pesticide-management-bill-2020:chair",
+  "bill_id": "pesticide-management-bill-2020",
+  "kind": "chair",
+  "question": "ಕೀಟನಾಶಕ ನಿರ್ವಹಣಾ ಮಸೂದೆ, 2020 ಅನ್ನು ಪರಿಶೀಲಿಸುತ್ತಿರುವ ಸಂಸದೀಯ ಸಮಿತಿಯ ಅಧ್ಯಕ್ಷರು ಯಾರು?",
+  "options": [
+   "Jagdambika Pal",
+   "Mukul Balkrishna Wasnik",
+   "Radha Mohan Singh",
+   "Charanjit Singh Channi",
+   "I don't know"
+  ],
+  "correct": "Charanjit Singh Channi",
+  "source": "https://prsindia.org/billtrack/the-pesticide-management-bill-2020",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಜಗದಂಬಿಕಾ ಪಾಲ್",
+   "ಮುಕುಲ್ ಬಾಲಕೃಷ್ಣ ವಾಸ್ನಿಕ್",
+   "ರಾಧಾ ಮೋಹನ್ ಸಿಂಗ್",
+   "ಚರಣ್‌ಜಿತ್ ಸಿಂಗ್ ಚನ್ನಿ",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "pesticide-management-bill-2020:report",
+  "bill_id": "pesticide-management-bill-2020",
+  "kind": "report",
+  "question": "ಕೀಟನಾಶಕ ನಿರ್ವಹಣಾ ಮಸೂದೆ, 2020 ಅನ್ನು ಪರಿಶೀಲಿಸುತ್ತಿರುವ ಸಂಸದೀಯ ಸಮಿತಿಯು ತನ್ನ ವರದಿಯನ್ನು ಸಲ್ಲಿಸಿದೆಯೇ?",
+  "options": [
+   "No",
+   "Yes",
+   "I don't know"
+  ],
+  "correct": "Yes",
+  "source": "https://prsindia.org/billtrack/the-pesticide-management-bill-2020",
+  "note": "",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "ಇಲ್ಲ",
+   "ಹೌದು",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ },
+ {
+  "id": "pesticide-management-bill-2020:assent",
+  "bill_id": "pesticide-management-bill-2020",
+  "kind": "assent",
+  "question": "ಕೀಟನಾಶಕ ನಿರ್ವಹಣಾ ಮಸೂದೆ, 2020 ಯಾವ ದಿನಾಂಕದಂದು ರಾಷ್ಟ್ರಪತಿಗಳ ಅನುಮೋದನೆ ಪಡೆದು ಕಾನೂನಾಯಿತು?",
+  "options": [
+   "28 August 2026",
+   "18 May 2020",
+   "It has not received the President's assent; no such date exists yet",
+   "28 October 2024",
+   "I don't know"
+  ],
+  "correct": "It has not received the President's assent; no such date exists yet",
+  "source": "https://prsindia.org/billtrack/the-pesticide-management-bill-2020",
+  "note": "Trap question: the bill is still pending, so any specific date is invented.",
+  "lang": "kn-IN",
+  "instruction": "ಭಾರತದ ಸಂಸತ್ತಿನ ಬಗ್ಗೆ ಕೆಳಗಿನ ಬಹು ಆಯ್ಕೆಯ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ನಿಮಗೆ ಉತ್ತರ ಖಚಿತವಿಲ್ಲದಿದ್ದರೆ, ಊಹಿಸುವ ಬದಲು \"ನನಗೆ ಗೊತ್ತಿಲ್ಲ\" ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ. ನಂತರ ನಿಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ನೀಡಿ: ನಿಮ್ಮ ಆಯ್ಕೆಯು ಸರಿಯಾಗಿರುವ ಸಂಭವನೀಯತೆ, 0 ರಿಂದ 100 ರವರೆಗೆ.",
+  "options_local": [
+   "28 ಆಗಸ್ಟ್ 2026",
+   "18 ಮೇ 2020",
+   "ಇದು ರಾಷ್ಟ್ರಪತಿಗಳ ಅನುಮೋದನೆಯನ್ನು ಪಡೆದಿಲ್ಲ; ಅಂತಹ ದಿನಾಂಕ ಇನ್ನೂ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ.",
+   "28 ಅಕ್ಟೋಬರ್ 2024",
+   "ನನಗೆ ಗೊತ್ತಿಲ್ಲ."
+  ]
+ }
+]

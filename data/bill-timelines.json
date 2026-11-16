@@ -1,0 +1,267 @@
+{
+  "checkedOn": "2026-09-24",
+  "records": [
+    {
+      "id": "the-indian-statistical-institute-bill-2026",
+      "title": "The Indian Statistical Institute Bill, 2026",
+      "url": "https://prsindia.org/billtrack/the-indian-statistical-institute-bill-2026",
+      "status": "In Committee",
+      "eligible": true,
+      "events": [
+        {
+          "stage": "Introduced",
+          "chamber": "Lok Sabha",
+          "date": "Aug 03, 2026"
+        },
+        {
+          "stage": "In Committee",
+          "chamber": "Standing Committee",
+          "date": "Sep 01, 2026"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "title": "The Delimitation Bill, 2026",
+      "url": "https://prsindia.org/billtrack/the-delimitation-bill-2026",
+      "status": "Pending",
+      "eligible": false,
+      "events": [
+        {
+          "stage": "Introduced",
+          "chamber": "Lok Sabha",
+          "date": "Apr 16, 2026"
+        },
+        {
+          "stage": "Infructuous",
+          "chamber": "Lok Sabha",
+          "date": "Apr 17, 2026"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "title": "The Union Territories Laws (Amendment) Bill, 2026",
+      "url": "https://prsindia.org/billtrack/the-union-territories-laws-amendment-bill-2026",
+      "status": "Pending",
+      "eligible": false,
+      "events": [
+        {
+          "stage": "Introduced",
+          "chamber": "Lok Sabha",
+          "date": "Apr 16, 2026"
+        },
+        {
+          "stage": "Infructuous",
+          "chamber": "Lok Sabha",
+          "date": "Apr 17, 2026"
+        }
+      ]
+    },
+    {
+      "id": "foreign-contribution-regulation-amendment-bill-2026",
+      "title": "The Foreign Contribution (Regulation) Amendment Bill, 2026",
+      "url": "https://prsindia.org/billtrack/the-foreign-contribution-regulation-amendment-bill-2026",
+      "status": "In Committee",
+      "eligible": true,
+      "events": [
+        {
+          "stage": "Introduced",
+          "chamber": "Lok Sabha",
+          "date": "Mar 25, 2026"
+        },
+        {
+          "stage": "In Committee",
+          "chamber": "Joint Parliamentary Committee",
+          "date": "Aug 12, 2026"
+        }
+      ]
+    },
+    {
+      "id": "corporate-laws-amendment-2026",
+      "title": "The Corporate Laws (Amendment) Bill, 2026",
+      "url": "https://prsindia.org/billtrack/the-corporate-laws-amendment-bill-2026",
+      "status": "Pending",
+      "eligible": true,
+      "events": [
+        {
+          "stage": "Introduced",
+          "chamber": "Lok Sabha",
+          "date": "Mar 23, 2026"
+        },
+        {
+          "stage": "In Committee",
+          "chamber": "Joint Parliamentary Committee",
+          "date": "Mar 23, 2026"
+        },
+        {
+          "stage": "Report",
+          "chamber": "Joint Parliamentary Committee",
+          "date": "Aug 03, 2026"
+        }
+      ]
+    },
+    {
+      "id": "securities-markets-code-2025",
+      "title": "The Securities Markets Code, 2025",
+      "url": "https://prsindia.org/billtrack/the-securities-markets-code-2025",
+      "status": "Pending",
+      "eligible": true,
+      "events": [
+        {
+          "stage": "Introduced",
+          "chamber": "Lok Sabha",
+          "date": "Dec 18, 2025"
+        },
+        {
+          "stage": "In Committee",
+          "chamber": "Standing Committee",
+          "date": "Dec 18, 2025"
+        },
+        {
+          "stage": "Report",
+          "chamber": "Standing Committee",
+          "date": "Jul 23, 2026"
+        }
+      ]
+    },
+    {
+      "id": "viksit-bharat-shiksha-adhishthan-2025",
+      "title": "The Viksit Bharat Shiksha Adhishthan Bill, 2025",
+      "url": "https://prsindia.org/billtrack/the-viksit-bharat-shiksha-adhishthan-bill-2025",
+      "status": "In Committee",
+      "eligible": true,
+      "events": [
+        {
+          "stage": "Introduced",
+          "chamber": "Lok Sabha",
+          "date": "Dec 15, 2025"
+        },
+        {
+          "stage": "In Committee",
+          "chamber": "Joint Parliamentary Committee",
+          "date": "Dec 16, 2025"
+        }
+      ]
+    },
+    {
+      "id": "govt-union-territories-amendment-2025",
+      "title": "The Government of Union Territories (Amendment) Bill, 2025",
+      "url": "https://prsindia.org/billtrack/the-government-of-union-territories-amendment-bill-2025",
+      "status": "In Committee",
+      "eligible": true,
+      "events": [
+        {
+          "stage": "Introduced",
+          "chamber": "Lok Sabha",
+          "date": "Aug 20, 2025"
+        },
+        {
+          "stage": "In Committee",
+          "chamber": "Joint Parliamentary Committee",
+          "date": "Aug 20, 2025"
+        }
+      ]
+    },
+    {
+      "id": "jk-reorganisation-amendment-2025",
+      "title": "The Jammu and Kashmir Reorganisation (Amendment) Bill, 2025",
+      "url": "https://prsindia.org/billtrack/the-jammu-and-kashmir-reorganisation-amendment-bill-2025",
+      "status": "In Committee",
+      "eligible": true,
+      "events": [
+        {
+          "stage": "Introduced",
+          "chamber": "Lok Sabha",
+          "date": "Aug 20, 2025"
+        },
+        {
+          "stage": "In Committee",
+          "chamber": "Joint Parliamentary Committee",
+          "date": "Aug 20, 2025"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "title": "The Constitution (130th Amendment) Bill, 2025",
+      "url": "https://prsindia.org/billtrack/the-constitution-one-hundred-and-thirtieth-amendment-bill-2025",
+      "status": "In Committee",
+      "eligible": true,
+      "events": [
+        {
+          "stage": "Introduced",
+          "chamber": "Lok Sabha",
+          "date": "Aug 20, 2025"
+        },
+        {
+          "stage": "In Committee",
+          "chamber": "Joint Parliamentary Committee",
+          "date": "Aug 20, 2025"
+        }
+      ]
+    },
+    {
+      "id": "constitution-129th-amendment-2024",
+      "title": "The Constitution (129th Amendment) Bill, 2024",
+      "url": "https://prsindia.org/billtrack/the-constitution-one-hundred-and-twenty-ninth-amendment-bill-2024",
+      "status": "In Committee",
+      "eligible": true,
+      "events": [
+        {
+          "stage": "Introduced",
+          "chamber": "Lok Sabha",
+          "date": "Dec 17, 2024"
+        },
+        {
+          "stage": "In Committee",
+          "chamber": "Joint Parliamentary Committee",
+          "date": "Dec 19, 2024"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "title": "The Union Territories Laws (Amendment) Bill, 2024",
+      "url": "https://prsindia.org/billtrack/the-union-territories-laws-amendment-bill-2024",
+      "status": "In Committee",
+      "eligible": true,
+      "events": [
+        {
+          "stage": "Introduced",
+          "chamber": "Lok Sabha",
+          "date": "Dec 17, 2024"
+        },
+        {
+          "stage": "In Committee",
+          "chamber": "Joint Parliamentary Committee",
+          "date": "Dec 19, 2024"
+        }
+      ]
+    },
+    {
+      "id": "pesticide-management-bill-2020",
+      "title": "The Pesticide Management Bill, 2020",
+      "url": "https://prsindia.org/billtrack/the-pesticide-management-bill-2020",
+      "status": "Pending",
+      "eligible": true,
+      "events": [
+        {
+          "stage": "Introduced",
+          "chamber": "Rajya Sabha",
+          "date": "Mar 23, 2020"
+        },
+        {
+          "stage": "In Committee",
+          "chamber": "Standing Committee",
+          "date": "Jun 03, 2021"
+        },
+        {
+          "stage": "Report",
+          "chamber": "Standing Committee",
+          "date": "Dec 21, 2021"
+        }
+      ]
+    }
+  ]
+}

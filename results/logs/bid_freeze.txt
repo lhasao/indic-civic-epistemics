@@ -1,0 +1,7 @@
+frozen 2026-11-15 13:49:24 IST
+5d80ac3168ea0959b544bf70d3fce2ec8581473c6e1ea8bf65a95a59f476542f  PROTOCOL_B_ID.md
+480dcac7247b367127c15d4adc675c5e5c0dfa42b2fac46befd473828702a3d9  src/analyze_bid.py
+e52c99a0b65831daa71ececddab4afda7d58831c9f084e04c4c83daded0cedff  src/run_eval.py
+ff6c31f015cb0b2f1cd260bab6e5cc26fc7a6292a9dfe1f498222354a2ad6245  src/analyze.py
+47e5e823c067c21a4972c26792262f27687bfddbb507bc2c13b9e29442330c14  data/prompt_strings_bid.json
+da1e45905b5556e08d24e03ccad8afefa5d4bdf9303ef9192ec8d73308774491  results/raw/B.jsonl
